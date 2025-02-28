@@ -17,46 +17,57 @@ laptop_names = []
 laptop_prices = []
 laptop_reviews = []
 
-# all items
-all_items = driver.find_elements(By.XPATH, ".//div[@data-component-type='s-search-result']")
+pages = 1
 
-for item in all_items:
-    # name
+for i in range(32):
+    time.sleep(3)
+    # all items
+    all_items = driver.find_elements(By.XPATH, ".//div[@data-component-type='s-search-result']")
+
+    for item in all_items:
+        # name
+        try:
+            if len(item.find_elements(By.XPATH, ".//h2[@class = 'a-size-medium a-spacing-none a-color-base a-text-normal']/span")) > 0:
+                names = item.find_elements(By.XPATH, ".//h2[@class = 'a-size-medium a-spacing-none a-color-base a-text-normal']/span")
+                for name in names:
+                    laptop_names.append(name.text)
+            else:
+                laptop_names.append("Not available")
+        except:
+            pass
+        
+
+        # price
+        try:
+            if len(item.find_elements(By.XPATH, ".//span[@class = 'a-price-whole']")) > 0:
+                prices = item.find_elements(By.XPATH, ".//span[@class = 'a-price-whole']")
+                for price in prices:
+                    laptop_prices.append(price.text)
+            else:
+                laptop_prices.append("Not available")
+        except:
+            pass
+
+        
+        # reviews
+        try:
+            if len(item.find_elements(By.XPATH, ".//span[@class = 'a-size-base s-underline-text']")) > 0:
+                reviews = item.find_elements(By.XPATH, ".//span[@class = 'a-size-base s-underline-text']")
+
+                for review in reviews:
+                    laptop_reviews.append(review.text)
+            else:
+                laptop_reviews.append("Not available")
+        except:
+            pass
+        
     try:
-        if len(item.find_elements(By.XPATH, ".//h2[@class = 'a-size-medium a-spacing-none a-color-base a-text-normal']/span")) > 0:
-            names = item.find_elements(By.XPATH, ".//h2[@class = 'a-size-medium a-spacing-none a-color-base a-text-normal']/span")
-            for name in names:
-                laptop_names.append(name.text)
-        else:
-            laptop_names.append("Not available")
-
+        driver.find_element(By.XPATH,"//a[text()='Next']").click()
+        time.sleep(3)
+        pages += 1
     except:
-        pass
-    
-
-    # price
-    try:
-        if len(item.find_elements(By.XPATH, ".//span[@class = 'a-price-whole']")) > 0:
-            prices = item.find_elements(By.XPATH, ".//span[@class = 'a-price-whole']")
-            for price in prices:
-                laptop_prices.append(price.text)
-        else:
-            laptop_prices.append("Not available")
-    except:
-        pass
-
-    
-    # reviews
-    try:
-        if len(item.find_elements(By.XPATH, ".//span[@class = 'a-size-base s-underline-text']")) > 0:
-            reviews = item.find_elements(By.XPATH, ".//span[@class = 'a-size-base s-underline-text']")
-
-            for review in reviews:
-                laptop_reviews.append(review.text)
-        else:
-            laptop_reviews.append("Not available")
-    except:
-        pass
+        print("Succesfully scraped", pages ,  "pages.")
+        break
 
 print("Lengths")  
 print("Names ====> ", len(laptop_names))
@@ -67,4 +78,6 @@ print("Reviews ====> ",len(laptop_reviews))
 import pandas as pd
 
 df = pd.DataFrame(zip(laptop_names, laptop_prices, laptop_reviews), columns=['laptop_names','laptop_prices', 'laptop_reviews'])
-df.to_csv(r"/home/shruti29/Desktop/Project/web scraping/dell_laptops.csv",index=False)
+df.to_csv(r"/home/shruti29/Desktop/Project/web scraping - amazon page/dell_laptops.csv",index=False)
+
+driver.quit()

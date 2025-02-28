@@ -1,25 +1,749 @@
 laptop_names,laptop_prices,laptop_reviews
-"Dell [Smartchoice] Windows 11 Home 3520 Laptop, Intel Core i3-1215U, 12Th Gen (8GB RAM /512GB SSD /Window 11 /MS Office' 21 /15.6""(39.62 Cm) FHD Display /15 Month Mcafee /Black /1.69Kg Thin & Light","34,990",883
-"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,875",169
+"Dell [Smartchoice] Windows 11 Home 3520 Laptop, Intel Core i3-1215U, 12Th Gen (8GB RAM /512GB SSD /Window 11 /MS Office' 21 /15.6""(39.62 Cm) FHD Display /15 Month Mcafee /Black /1.69Kg Thin & Light","34,990",886
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,905",171
 "Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 1TB SSD, 15.6"" (39.62cm) FHD Display, Backlit Keyboard, Windows 11 + MSO'24 & 15 Month McAfee, Silver, 1.62kg","57,990",1
-"Dell Inspiron 3535, Windows 11 Home, AMD Ryzen 3 7320U Processor, (8GB RAM/512GB SSD/Window 11/Ms Office' 21/15.6""(39.62 Cm) FHD Display/15 Month Mcafee/Carbon Black/1.67Kg Thin & Light Laptop","29,490",74
-"Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6"" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg","37,290",213
-"Dell 15 Thin & Light Laptop, Windows 11 Home, Intel Core i5-1235U Processor, 8GB RAM + 512GB SSD, 15.6"" FHD Window 11 + Mso '21, 15 Month Mcafee, Spill-Resistant Keyboard, Black, 1.66Kg","46,490",359
-"Dell Inspiron 15 3535 Laptop - 15.6 inch FHD (39.62cm) Display, AMD Ryzen 5 7520U, 8 GB RAM, 512 GB SSD, Carbon Black, 1.67Kg, Ideal for Students, Perfect for Learning and Productivity","39,490",14
+"Dell Inspiron 3535, Windows 11 Home, AMD Ryzen 3 7320U Processor, (8GB RAM/512GB SSD/Window 11/Ms Office' 21/15.6""(39.62 Cm) FHD Display/15 Month Mcafee/Carbon Black/1.67Kg Thin & Light Laptop","29,990",74
+"Dell 15 Thin & Light Laptop, Windows 11 Home, Intel Core i5-1235U Processor, 8GB RAM + 512GB SSD, 15.6"" FHD Window 11 + Mso '21, 15 Month Mcafee, Spill-Resistant Keyboard, Black, 1.66Kg","46,490",361
 "DELL Latitude 3540 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/15.6"" HD Display/Smoky Black/1.8 kg/MS Office 2021","30,800",6
 "Dell Inspiron 5630 13th Gen Laptop, Intel Core i5-1340P Processor/16Gb LPDDR5/512GB /16.0"" (40.64cm) FHD+ WVA AG 250 nits/Backlit KB + FPR/Windows 11+ MSO'21/McAfee 15 Months/Platinum Silver/1.85kg","64,490",7
-"Dell Inspiron 3530 Laptop, 13th Generation Intel Core i7-1355U Processor, 16GB, 512GB, 15.6"" (39.62cm) FHD 120Hz Display, Backlit KB, Windows 11 + MSO'21, 15 Month McAfee, Silver, Thin & Light-1.62kg","68,190",10
-"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) FHD Touchscreen Laptop (16 GB DDR4 RAM/256 GB SSD/Intel UHD Graphics)/Wi-Fi/Windows 11/Thin & Light Laptop/MS Office","29,999",11
-"Dell {Smartchoice} G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB (16GB RAM|1TB SSD, FHD|Window 11|MS Office' 21|15.6"" (39.62cm)|Dark Shadow Grey|2.65Kg|Gaming Laptop","78,990","1,042"
+"Dell Inspiron 3530 13th Gen Laptop, Intel Core i3-1305U/8GB/512GB SSD/15.6"" (39.62cm) FHD WVA AG 120Hz 250 nits Narrow Border/Windows 11+MSO'21/McAfee 15 Month/Platinum Silver/1.62kg","37,220",213
+"Dell Inspiron 3530 Laptop, 13th Generation Intel Core i7-1355U Processor, 16GB, 512GB, 15.6"" (39.62cm) FHD 120Hz Display, Backlit KB, Windows 11 + MSO'21, 15 Month McAfee, Silver, Thin & Light-1.62kg","68,290",10
+"Dell Inspiron 15 3535 Laptop - 15.6 inch FHD (39.62cm) Display, AMD Ryzen 5 7520U, 8 GB RAM, 512 GB SSD, Carbon Black, 1.67Kg, Ideal for Students, Perfect for Learning and Productivity","39,490",14
 "Dell Inspiron 3530 Laptop, 13th Gen Intel Core i5-1334U Processor, 16GB, 512GB SSD, 15.6""(39.62cm) FHD 120Hz 250 nits, Backlit KB, Windows 11 + Mso'21 & 15 Month McAfee, Silver, Thin & Light- 1.62kg","57,490",75
-"Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6"" (39.62cm) 120Hz Refresh Rate on a FHD IPS Display/Windows 11 + MSO'21+McAfee 15 Month/Carbon Black/1.62kg","38,490",83
-"Dell Inspiron 15 3530 Laptop - Powerful 15.6 inch FHD (39.62cm) Display, Intel Core i7-1355U, 16 GB RAM, 512 GB SSD, Windows 11 Home, Platinum Silver, Thin and Light, Ideal for Data Mavens","69,490",22
-"Dell (Refurbished) Latitude 3400 8th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/512 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Intel UHD Graphics)","17,999",49
-DELL Latitude 3440 Intel Core i3 12th Gen 1215U - (8GB/512 GB SSD/Intel UHD Graphics) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg,"29,780",7
-(Refurbished) DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg/MS Office 2021,"31,299",7
-"Dell Inspiron 5430 13th Gen Laptop, Intel i7-1355U/16GB LPDDR5/512GB SSD/14.0"" (35.56Cms) FHD+ Comfort View/Backlit KB + FPR/Windows 11+MSO'21/McAfee 15 Months/Platinum Silver/Thunderbolt 4.0/1.59KGs","76,990",14
-"(Refurbished) Dell Latitude E7470 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|256 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","14,999",7
-DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg/MS Office 2021,"30,450",6
-"(Refurbished) Dell Latitude E7470 6th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM|512 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","18,999",6
+DELL Latitude 3440 Intel Core i3 12th Gen 1215U - (8GB/512 GB SSD/Intel UHD Graphics) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg,"29,700",7
+"Dell (Refurbished) Latitude 3400 8th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/512 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Intel UHD Graphics)","17,973",49
+"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) FHD Touchscreen Laptop (16 GB DDR4 RAM/256 GB SSD/Intel UHD Graphics)/Wi-Fi/Windows 11/Thin & Light Laptop/MS Office","28,999",11
+"Dell {Smartchoice} G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB (16GB RAM|1TB SSD, FHD|Window 11|MS Office' 21|15.6"" (39.62cm)|Dark Shadow Grey|2.65Kg|Gaming Laptop","78,800","1,043"
+"Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6"" (39.62cm) 120Hz Refresh Rate on a FHD IPS Display/Windows 11 + MSO'21+McAfee 15 Month/Carbon Black/1.62kg","38,490",85
+"Dell Inspiron 15 3530 Laptop - Powerful 15.6 inch FHD (39.62cm) Display, Intel Core i7-1355U, 16 GB RAM, 512 GB SSD, Windows 11 Home, Platinum Silver, Thin and Light, Ideal for Data Mavens","69,490",23
+(Refurbished) DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (16 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg/MS Office 2021,"31,299",8
+"Dell Inspiron 5440 Laptop, i5-1334U Processor, 16GB DDR5 + 1TB SSD, 14"" FHD+AG NonTouch 250nits WVA Display w/Comfortview Support, Backlit KB + FPR, Win11 + MSO'21 + 15 Month McAfee, Ice Blue, 1.54kg","66,300",14
+DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Pro) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg/MS Office 2021,"30,370",6
+"Dell Inspiron 7430 2in1 Touch Laptop, Intel Core i7-1355U Processor/16GB/512GB SSD/14.0"" FHD+ 16:10 Aspect Ratio/Active Pen/Backlit KB + FPR/Windows 11 + MSO'21/McAfee 15 Months/Platinum Silver/1.58kg","1,02,490",11
+"(Refurbished) Dell Latitude E7470 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|256 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","14,499",8
 "Dell Inspiron 5430 Laptop, Intel Core i5-1335U Processor/ 8GB/ 512GB SSD/ 14.0"" (35.56cm) FHD+ Comfort View/Backlit KB/Windows 11+MSO'21/15 Month McAfee/Platinum Silver, Thunderbolt 4.0 Port,1.59kg","60,990",90
+"(Refurbished) Dell Latitude 5320 Intel Core i5 11th Gen 13.3"" (33.8 cm) HD Touchscreen Laptop (8 GB DDR4 RAM|512 GB SSD|Intel Iris Xe Graphics)|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","26,999",10
 "Dell Inspiron 5330 Laptop, Intel Core Ultra 7 155H Processor,16GB LPDDR5X,1TB SSD,Intel Arc Graphics,13.3"" (33.78cm) QHD+AG 300nits Display,Backlit KB + FPR,Windows 11 + MSO'21,Thin & Light- 1.24kg","99,690",2
+"(Refurbished) Dell E5290, 8th Gen, Intel Core i5-8250U, 8GB DDR4 RAM, 256GB SSD, (Win 11, MS Office, Black, 1.4kg) 12.5"" (31.8cm) HD, Intel UHD Graphics, HD Camera, Thin & Light Business Laptop","15,999",2
+"Dell Inspiron 5430 13th Gen Laptop, Intel i5-1335U/8GB LPDDR5/512GB SSD/ 14.0"" (35.56Cms) FHD+ Comfortview/Backlit KB/Win 11 + MSO'21/Mcafee 15 Months/Platinum Silver/Thunderbolt 4.0 Port/1.59KGs","53,490",7
+"(Refurbished) Dell Latitude E7470 6th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM|512 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","18,999",6
+"Dell Inspiron 7440 Thin & Light Laptop, Intel Core i7-13620H Processor, 16GB DDR5 + 512GB SSD, 14"" (35.52cm) FHD+ 250nits Display, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.60kg","79,018",20
+"Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i7-1355U Proc, 16GB, 512GB SSD, 15.6"" (39.62cm) FHD Display, Backlit KB, Win 11 + Office H&S 2024 + M365 & 15 Month McAfee, Silver, 1.62kg","70,603",Not available
+"Dell 14 Laptop, Intel 13th Generation Core i5-1334U Processor, 8GB DDR5 & 512GB SSD, 14""(35.52cm) FHD+ AG 250nits, Windows 11 + MSO'21 + 15 Month Mcafee Antivirus, Titan Grey, Thin & Light- 1.55kg","51,990",250
+"Dell Inspiron 3530 Laptop, 13th Gen Intel Core i5-1334U Processor, 8GB DDR4, 512GB SSD, 15.6"" (39.62cm) FHD 120Hz 250 nits, Backlit KB, Win 11 + Mso'21 & 15 Month McAfee, Silver, Thin & Light- 1.62kg","53,490",190
+"Dell Vostro 15 3520 Laptop - 15.6 inch (39.62cm) FHD Display, Intel Core i3-1215U, 8 GB RAM, 512 GB SSD, Titan Grey, 1.69Kg, Ideal for Digital Nomads, Perfect for Productivity and Collaboration","38,490",353
+"(Refurbished) Dell Latitude 3400 8th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Intel UHD Graphics)","16,399",10
+"(Refurbished) Dell Latitude E5470 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|256 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","13,499",4
+"(Refurbished) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 8 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","15,899","1,701"
+"Dell Inspiron 3520 Laptop, Intel Core 12th Gen i5-1235U Processor, 8GB RAM, 512GB SSD, 15.6"" (39.62cm) FHD AG 120Hz 250 Nits Display, Win 11 + MSO'21, 15 Month McAfee, Black,1.82kg","48,550",145
+"Dell 15 Thin & Light Laptop, Intel Core 13th Generation i5-1334U Processor, 16GB DDR4 & 512GB SSD, 15.6"" (39.62cm) FHD 120Hz 250 nits, Windows 11 + MSO'21 + 15 Month Mcafee, Carbon Black, 1.66kg","54,990",36
+"Dell Thin & Light Inspiron 7440 2in1 Laptop, Intel Core 7 150U, 16GB + 1TB SSD, 14"" (35.62cm) FHD+ 250nits Touch, Dell Active Pen, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.71kg","95,990",1
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","21,025",37
+"(Refurbished) Dell E5290, 8th Gen, Intel Core i5-8250U, 8GB DDR4 RAM, 500GB SSD, (Win 11, MS Office, Black, 1.4kg) 12.5"" (31.8cm) HD, Intel UHD Graphics, HD Camera, Thin & Light Business Laptop","14,999",Not available
+"(Refurbished) Dell Latitude E5470 6th Gen Intel Core i5 Thin & Light HD Laptop (10 GB DDR4 RAM|256 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","15,999",Not available
+"(Refurbished) Dell Latitude 5270 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|256 GB SSD|12.5"" (31.8 cm) HD|Windows 11 Pro|MS Office|WiFi|BT|Intel Graphics)","13,499",8
+"Dell Gaming G15-5530 Laptop, Intel 13th Gen i7-13650HX Processor, 16GB DDR5 + 1TB SSD, NVIDIA RTX 3050 6 GB GDDR6, 15.6"" (39.62cm) FHD Narrow 120Hz, 4-Zone RGB Backlit KB, Dark Shadow Gray, 2.65 Kg","97,990",10
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","23,999",2
+Dell Latitude 3440 Core i5-12th Gen / 16GB RAM / 512GB SSD / 3 Year Warranty/Windows 11 Pro/FHD/BKL/NO FPR,"55,250",Not available
+"Dell Vostro 3520, I5-1235U Processor | Windows 11 Home, Intel Iris Xe Graphics (16GB RAM) | 512GB SSD|Window11|Ms Office'21|15.6""(39.62 Cm) |15 Month McAfee/Titan Grey/1.69Kg Laptop","49,990",64
+"(Refurbished) Dell Latitude 5320 Intel Core i5 11th Gen 13.3"" (33.8 cm) HD Laptop (8 GB DDR4 RAM|512 GB SSD|Intel Iris Xe Graphics)|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","25,999",3
+"(Refurbished) Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 1TB, NVIDIA RTX 3050,6GB GDDR6, 15.6"" (39.62cm) FHD 120Hz 250 nits, Backlit KB Orange,Win 11 + MSO'21, Dark Shadow Gray, 2.65kg","67,141",1
+"Dell Alienware M18 R1, Windows 11 Home, Intel Core I9-13980HX| NVIDIA RTX 4090, 16GB|64GB RAM|1TB SSD, FHD|Window 11|Ms Office' 21|18.0"" (45.72Cm)|Dark Metallic Moon|2.72Kg|Gaming Laptop","4,51,099",13
+"Dell WM118 Wireless Mouse, 1000DPI, 2.4 Ghz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Plug and Play, Ambidextrous - Black",599,"19,840"
+"Dell XPS 9640 Laptop, AI Enabled Intel Core Ultra 9 185H, 32GB LPDDR5X & 1TB SSD, Win 11 + MSO'21, NVIDIA RTX 4060,8 GB GDDR6,16.3"" (41.4cm) UHD+ OLED Touch 400 nits, Backlit KB + FPR,Platinum, 2.13kg","3,66,490",1
+"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) FHD Touchscreen Laptop (16 GB DDR4 RAM|512 GB SSD|Intel UHD Graphics)|Wi-Fi|Windows 11|Thin & Light Premium Laptop|MS Office","31,889",4
+DELL Latitude 3440 (2024) Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Intel UHD Graphics/Windows 11 Home) Thin and Light Business Laptop/14 HD Display/Grey/1.5 kg/MS Office 2021,"30,700",1
+"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) FHD Touchscreen Laptop (16 GB DDR4 RAM|256 GB SSD|Intel UHD Graphics)|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","28,799",11
+"Dell 15 Thin & Light Laptop, 13th Generation Intel Core i3-1305U Processor, 8GB DDR4 + 512GB SSD, 15.6"" (39.62cm) FHD 120Hz 250 nits Display, Windows 11 + MSO'21, 15 Month McAfee, Titan Grey, 1.69kg","38,990",51
+"Dell MS116 Wired Optical Mouse, 1000DPI, LED Tracking, Scrolling Wheel, Plug and Play",270,"42,667"
+"Dell Inspiron 3511 Notebook - Intel i5-1135G7, 16GB, 512GB, Windows 11+MSO'21, 15.6""/39.64Cms FHD WVA AG (Platinum Silver, D560816WIN9S, 1.8Kgs)","49,900",105
+Dell (Refurbished) Latitude E5470 14 Inches Laptop (Intel Core I5 6Th Gen/8Gb/256 Gb Sdd/Windows 10/Ms O,"13,890",230
+"Dell Inspiron 5430 13th Gen Laptop, Intel i5-1335U/8GB LPDDR5/512GB SSD/ 14.0"" (35.56Cms) FHD+ Comfortview/Backlit KB/Win 11 + MSO'21/Mcafee 15 Months/Platinum Silver/Thunderbolt 4.0 Port/1.59KGs","52,790",14
+"Dell Inspiron 7430 2in1 Touch Laptop, 13th Gen Intel Core i3-1315U/8GB/1TB SSD/14.0"" (35.56cm) FHD+,16:10 Aspect Ratio/Backlit KB+FPR/Win 11+MSO'21/15 Months McAfee/Platinum Silver/Thin & Light-1.58kg","74,242",136
+"(Refurbished) DELL Latitude Laptop 7390 Intel Core i7 Mobile-8th Gen Processor, 16 GB Ram & 512 GB SSD, 13.3 Inches FHD 1080p 1.12KG Light Weight Notebook Computer","22,990",12
+"Dell Thin & Light Inspiron 7440 2in1 Laptop, Intel Core 3 100U Processor, 8GB + 512GB SSD, 14"" (35.62cm) FHD+ 250nits Display Touch, Backlit KB + FPR, Win 11 + MSO'21,15 Months McAfee,Ice Blue,1.71kg","59,990",1
+"Dell Alienware x16 Gaming Laptop, Intel Core i9 13900HK Processor/32GB/2TB SSD/NVIDIA RTX 4090 16GB GDDR6/ 16""(40.64cm) QHD+ 240Hz, 3ms, DCI-P3 100%/Win 11+MSO'21+McAfee 15 Month/Lunar Silver/2.72kg","4,54,490",9
+"Dell JDCXX,K257C 1 Port 240V 3 Pin Power Chord for Laptops - Black",268,"1,973"
+"(Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0"" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, Carbon Black (D552325WIN9BE, 1.48 KGs)","29,741",6
+"Dell Inspiron 3535 Laptop, AMD Ryzen R3-7320U, 8GB, 512GB, 15.6"" (39.62cm) FHD WVA AG 120Hz Display, Win 11 + MSO'21, 15 Month McAfee, Silver, 1.67kg","34,600",4
+"Dell Inspiron 5445 Thin & Light Laptop, AMD R5-8540U Processor, 16GB DDR5 + 512GB SSD, 14"" (35.52cm) FHD+AG 250nits Display, Backlit KB, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.61kg","60,490",1
+"Dell XPS 9720 Laptop,Intel i9-12900HK, 32GB DDR4 & 1TB SSD,Win 11 + MSO'21, NVIDIA RTX 3060 (6GB GDDR6),17.0"" (43.9Cms) UHD+ AR Infinity Edge Touch 500 nits,15 Month McAfee, Platinum Silver, 2.42Kgs","3,31,353",3
+"Dell XPS 13 9350 Laptop, AI Enabled Ultra7 258V Series 2 Processor, 32GB LPDDR5X 8533MT/s, 1TB SSD, Intel Arc graphics, 13.4"" (34.03cm) OLED 3K 60Hz Touch AR 400nit, Backlit KB + FPR, Platinum,1.18 kg","2,31,118",Not available
+"Dell Inspiron 3520 Laptop,12th Gen Intel Core i3-1215 Processor, 8GB, 512GB SSD, 15.6"" (39.62Cms FHD, Win 11 + MSO'21, Silver, 15 Month McAfee Antivirus, Thin & Light-1.65kg","36,500",226
+"Dell G15-5520 Gaming Laptop,I7-12650H,16Gb Ddr5,512Gb Ssd,Nvidia Geforce RTX 3060 (6Gb Gddr6),15.6"" (39.62Cms) Fhd Wva Ag,165Hz 300 Nits,Win 11+ Mso'21,Dark Shadow Grey (D560895Win9S,2.81Kgs)-Intel","1,06,990",3
+Dell Original 45W 19.5V Laptop Charger Adapter with 4.5mm pin for Inspiron - Black Without Power Cord,"1,229",487
+"Dell 14 Laptop, Intel Core i5-1235U Processor/ 8GB/ 512GB SSD/ 14.0""(35.56cm) FHD with Comfortview/Windows 11 + MSO'21/ McAfee 15 Months/Spill-Resistant Keyboard/Black Color/ 1.48kg","65,490",8
+"Dell Inspiron 7640 Thin & Light Laptop, Intel Core i7-13620H Processor, 16GB DDR5 + 1TB SSD, 16"" (40.64cm) FHD+ 250nits Display, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.90kg",Not available,Not available
+"Dell Inspiron 3530 13th Gen Laptop, Intel Core i5-1335U/8GB/512GB SSD/15.6"" (39.62cms) 120Hz Refresh Rate on a FHD IPS Display with Dell Comfortview/Win 11+MSO'21+McAfee 15 Month/Carbon Black/1.62kg","53,100",5
+"Dell Latitude 3440 i3-1215U|8GB|512 SSD|Win 11 Pro|14"" HD|NO ODD|3Yr NBD + 3Yr ADP | Intel WiFi + Bluetooth 5.1 | 3 Cell","37,990",Not available
+"Dell 15 Thin & Light Laptop, 13th Gen Intel Core i3-1305U Processor, 8GB DDR4, 512GB SSD, 15.6"" (39.62cm) FHD 120Hz 250 nits, Intel UHD Graphics, Windows 11 + MSO'21, 15 Months McAfee, Black, 1.66kg","36,990",16
+"Dell 15 Thin & Light Laptop, AMD R3-7320U Processor, 8GB + 512GB SSD, 15.6"" (39.62cm) FHD 120Hz 250 nits Display, Radeon Graphics, Windows 11 + MSO'21, 15 Month McAfee Antivirus, Black, 1.67kg","33,990",Not available
+"Dell [Smartchoice] Alienware M16 R2 Gaming Laptop,Intel Ultra 9 185H,32GB DDR5,1TB SSD,Nvidia RTX 4070 8 Gb GDDR6,16"" (40.6Cm) QHD+ 240Hz,Nvidia G-Sync +Alienfx RGB Backlit Kb,Dark Metallic,2.61Kg","2,15,590",16
+"Dell Inspiron 7440, Core Ultra 7 155H Processor, 16GB PDDR5X+1TB SSD, 14"" (35.52cm) 14"" 2.2K AG 300nits WVA Display/Comfortview Plus, Display, Backlit KB+FPR, Win11+MSO'21, Ice Blue, 1.60kg","97,990",2
+"(Refurbished) Dell Latitude Laptop 5480 Intel Core i7 -7th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Notebook Computer","29,999",5
+"Dell XPS 13 9350 Laptop, AI Enabled Ultra7 256V Series 2 Processor, 16GB LPDDR5X 8533MT/s, 512GB SSD, Intel Arc Graphics, 13"" (33.02cm) FHD+ 120Hz NT AG 500 nit, Backlit KB + FPR, Platinum, 1.22 kg","1,97,066",2
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (8 GB DDR4 RAM/256 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"13,990",Not available
+"Dell Gaming G15-5530 Laptop, Intel 13th Gen i9-13900HX Processor, 16GB DDR5 + 1TB SSD, NVIDIA RTX 4060 8 GB GDDR6, 15.6"" (39.62cm) FHD 165Hz 100% sRGB, 4-Zone RGB Backlit KB, Dark Shadow Gray, 2.65 Kg","1,41,490",Not available
+"Dell 15 Laptop, 13th Gen Intel Core i5-1335U Processor/ 8GB/ 512GB SSD/15.6"" (39.62cm) FHD AG 120Hz 250 nits Narrow Border/Windows 11 + MSO'21/15 Month McAfee/Carbon Black/Thin & Light- 1.66kg","51,790",18
+"Dell Gaming G15-5530 Laptop, Intel 13th Gen i5-13450HX Processor, 8GB DDR5 + 512GB SSD, NVIDIA RTX 3050 6 GB GDDR6, 15.6"" (39.62cm) FHD Narrow 120Hz, Orange Backlit KB, Dark Shadow Gray, 2.65 Kg","69,490",Not available
+"Dell Vostro 15 3530 Laptop – 15.6 inch FHD (35.56cm) Display, 13th Gen Intel Core i5-1334U Processor, 8 GB RAM, 512 GB SSD, Intel UHD Graphics, Carbon Black, 1.66Kg, Ideal for Tech Ninjas","51,490",201
+"(Refurbished) Dell Latitude E5480 7th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Integrated Graphics)","15,499",44
+"Dell XPS 9730 Laptop, Intel Core i7-13700H Processor/32GB DDR5/1TB SSD/NVIDIA RTX 4060 8GB GDDR6/17.0"" (43.18cm) UHD+ AR Touch 500 nits/Backlit KB + FPR/Win 11 + MSO'21 + 15 Month McAfee/Silver/2.44kg","3,04,090",1
+"Dell KB216-Black Multimedia Wired Keyboard with USB Interface, Plunger Keys Technology and Chiclet Key Style, Hot Key-Volume, Mute, Play/Pause, Backward, Forward, Warranty 3 Years",569,"37,467"
+"Dell 15 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6"" (39.62cm) FHD Display/AMD Radeon Graphics/Win 11 + MSO'21/15 Month McAfee/Black/Thin & Light-1.83kg","38,990",12
+(Refurbished) Dell Latitude 3400 8th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 11 Pro/MS Office/WiFi/BT/Intel HD Graphics),"14,999",Not available
+"(Refurbished) Dell Latitude Air Laptop E7280 Intel Core i5 - 6300u Processor 6th Gen, 4 GB Ram & 512 GB","16,899",55
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 64 GB Ram & 256 GB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","32,490",Not available
+(Refurbished) Dell Vostro 3400 11th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/Webcam/Intel UHD Graphics),"19,999",11
+"Dell Vostro 5630 13th Gen Laptop, Intel i5-1335U/16GB LPDDR5/512GB SSD/16.0"" (40.64cm) FHD+ with Comfort View Support,16:10 Aspect Ratio/Windows 11+MSO'2/McAfee 15 Month/Titan Grey/FHD Camera/1.90kgs","76,190",8
+"(Refurbished) Dell Latitude E5470 6th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM|256 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","14,990",5
+"Dell XPS 9730 Laptop, Intel Core i7-13700H Processor/32GB DDR5/1TB SSD/NVIDIA RTX 4060 8GB GDDR6/17.0"" (43.18cm) UHD+ AR Touch 500 nits/Backlit KB + FPR/Win 11 + MSO'21 + 15 Month McAfee/Silver/2.44kg","3,04,090",1
+"Dell Inspiron 3520 Laptop, 12th Gen Intel Core i5-1235U Processor, 8GB, 512GB SSD, 15.6"" (39.62cm) FHD Display, Win 11 + MSO'21, Backlit Keyboard, 15 Month McAfee, Silver, Thin & Light- 1.65kg","49,499",13
+"(Refurbished) Dell Latitude 5270 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|512 GB SSD|12.5"" (31.8 cm) HD|Windows 11 Pro|MS Office|WiFi|BT|Intel Graphics)","15,499",Not available
+"Dell Vostro 15 3530 Laptop – 15.6 inch FHD (35.56cm) Display, 13th Gen Intel Core i5-1334U Processor, 8 GB RAM, 512 GB SSD, Intel UHD Graphics, Carbon Black, 1.66Kg, Ideal for Tech Ninjas","51,490",201
+"Dell Alienware m16 R1 Gaming Laptop, Intel i7-13650HX/16GB/512GB/16 (40.64cm) QHD+ 165Hz, 100% sRGB/NVIDIA RTX 4050, 6 GB GDDR6/Win 11 + MSO'21, 15 Month McAfee/Dark Metallic Moon/","1,44,990",6
+"Dell Inspiron 3525 Laptop, AMD Ryzen R5-5500U/8GB/512Gb SSD/15.6"" (39.62cm) FHD AG 120Hz 250 nits/Platinum Silver/Win 11+MSO'21/15 Month McAfee/1.68kg","41,724",5
+"Dell Inspiron 15 3520 Laptop – 15.6 inch FHD (39.62cm) Display, 12th Gen Intel Core i3-1215U Processor, 8 GB RAM, 512 GB SSD, Black, 1.65Kg, Lightweight and Portable","34,790",21
+"Dell Inspiron 5330 Laptop, Intel Evo Platform Powered by Intel Core i7-1360P Processor/16GB LP DDR5/1TB SSD/13.3"" (33.78cm) QHD+ 300 nits/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/1.24kg","1,01,772",10
+"Dell AC Power Adapter Charger 45w 19.5v 4.5MM for Tablets, Laptops Inspiron 13 7359 13-7359 Ultrabook Series- Black-(Without Power Cable)","1,169",117
+"Dell 15 Laptop, AMD Ryzen 5-5500U Processor/ 8GB/ 512GB SSD/ 15.6"" (39.62cm) FHD Display/AMD Radeon Graphics/Win 11 + MSO'21/15 Month McAfee/Black/Thin & Light-1.83kg","38,990",12
+(Refurbished) Dell Latitude 3400 8th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 11 Pro/MS Office/WiFi/BT/Intel HD Graphics),"14,999",Not available
+Dell Orignal Battery M5Y1K Inspiron 5558 3458 3558 3551 5558 3451 5758 Vostro 3458 3558 14.6V 2600mAh,"2,659","2,527"
+"Dell Inspiron 14 5430 Laptop - 14 inch FHD+ (35.56cm) Display, Intel Core i5-1335U, 8 GB RAM, 1 TB SSD, Platinum Silver, 3.51 lbs, Ideal for Students, Perfect for Learning and Productivity","67,190",157
+"Dell Inspiron 3511 Laptop, Intel Core i3-1115G4, 8GB DDR4, 1TB HDD + 256GB SSD, 15.6"" (39.62Cms) FHD WVA AG, Win 11 + MSO'21, Platinum Silver (D560841WIN9S, 1.8Kgs)","40,899",12
+"Dell [SmartChoice] Alienware m18 R1 Gaming Laptop, Intel Core i9-13900HX /32GB /1TB SSD/NVIDIA RTX 4080 12GB GDDR6 /18.0""(45.72cm) QHD 165Hz /15 Month McAfee/Backlit KB with per-Key AlienFX /3.86kg","3,67,990",12
+(Refurbished) Dell Vostro 3400 11th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/Webcam/Intel UHD Graphics),"19,999",11
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (16 GB DDR4 RAM/512 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"15,990",1
+"Dell Alienware x14 R2 Gaming Laptop, Intel Core i7-13620H/32GB/1TB SSD/NVIDIA RTX 4060 8GB GDDR6/14'' (35.56Cms) QHD+ 165Hz, 3ms, 300nits/Win 11+MSO'21+McAfee 15 Month/Lunar Silver/2.08Kgs","2,25,990",5
+"Dell Latitude 3440 i5-1235U / 16GB RAM / 512 SSD/Win 11 Pro / 14"" FHD/NO ODD/with bagpack","55,990",1
+"Dell Thin & Light Inspiron 7440 2in1 Laptop, Intel Core 3 100U, 8GB + 512GB SSD, 14"" (35.62cm) FHD+ 250nits Touch + Dell Active Pen, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee,Ice Blue,1.71kg","58,990",Not available
+"Dell XPS 13 Laptop, On-Device AI with Copilot+, 12 Core Snapdragon X Elite (Dual Core Boost),13"" (33.02cm) OLED 3K 60Hz Touch, 16GB + 512GB SSD, Qualcomm NPU 45 TOPS,Backlit KB + FPR,Graphite, 1.17 kg","1,55,990",1
+"Dell G Series 15 5530 Laptop – 15.6 inch FHD (39.62cm) Display, 13th Gen Intel Core i5-13450HX, 8 GB DDR5 RAM, 512 GB SSD, NVIDIA GeForce RTX 3050, Dark Shadow Grey, 2.65 kg, Thin and Portable","81,490",28
+"Dell KM3322W Wireless USB Keyboard and Mouse Combo, Anti-Fade & Spill-Resistant Keys, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Black","1,226","11,795"
+"Dell G15-5535 Gaming Laptop, AMD R5-7640HS, 16GB DDR5, 1TB SSD, NVIDIA RTX 3050 6 GB GDDR6, 15.6"" (39.62cm) FHD 120Hz, Orange Backlit KB, Dark Shadow Gray, Win 11 + MSO'21 + 15 Month McAfee, 2.65kg","82,490",1
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 16 GB Ram & 1TB SSD, 14.1 Inches FHD 1080p Screen (Ultra Slim & Feather Light 1.59KG) Notebook Computer","24,790",17
+"Dell Vostro 5630 Laptop, Intel Core i7-1355U Processor/ 16GB LPDDR5/ 512GB SSD/ 16.0"" (40.64cm) FHD+, 16:10 Aspect Ratio/Windows 11 + MSO'21/ McAfee 15 Month/Titan Grey/Hardware TPM 2.0/1.90kg","92,990",25
+"Dell Inspiron 16 Plus Laptop with AI Enabled Intel Evo Powered Core Ultra 5 125H, 16GB LPDDR5, 512GB SSD, Intel Arc Graphics, 16"" (40.64cm) FHD+ NT 300 nits Display, Backlit KB + FPR, Ice Blue, 1.90kg","1,00,290",Not available
+"(Refurbished) Dell E5290, 8th Gen, Intel Core i5-8250U, 16GB DDR4 RAM, 256GB SSD, (Win 11, MS Office, Black, 1.4kg) 12.5"" (31.8cm) HD, Intel UHD Graphics, HD Camera, Thin & Light Business Laptop","17,499",Not available
+"(Refurbished) Dell Latitude Air Laptop E7280 Intel Core i5 - 6300u Processor 6th Gen, 4 GB Ram & 512 GB","16,899",55
+"(Refurbished) Dell Latitude 5290 8th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/12.5"" (31.8 cm) HD Display/Windows 11/MS Office/WiFi/BT/Intel UHD Graphics)","15,999",95
+"Dell Refurbished Inspiron 3520 Laptop, Intel Core i5-1235U Processor, 16GB,512GB,15.6"" (39.62cm) FHD Display, Backlit Keyboard, Win 11 + MSO'21,15 Month McAfee, Silver, Thin & Light-1.65kg","50,000",55
+"Dell Alienware x15 R1 Gaming Laptop, Intel Core i7-11800H Processor/ 16GB/ 1TB SSD/Win 11 + MSO'21/ NVIDIA RTX 3060 6GB/ 15.6"" (39.62cm) FHD 300 nits 360Hz + Alien FX/Lunar Light/ 2.27kg","2,22,290",Not available
+"Dell Inspiron 15 3520 Laptop – 15.6 inch FHD (39.62cm) Display, 12th Gen Intel Core i5-1235U Processor, 8 GB RAM, 512 GB SSD, Black, 1.65Kg, Lightweight and Portable","49,490",7
+"Dell Inspiron 7430 2in1 Touch Laptop, 13th Gen Intel Core i5-1335U Processor/8GB LP DDR5/1TB SSD/14.0"" (35.56cm) FHD+/Active Pen/Win11+MSO'21/15 Month McAfee/Platinum Silver/Thin & Light-1.58kg","81,399",9
+"Dell Alienware M16 R2 Windows 11 Home Gaming Laptop,Intel Core Ultra 7 155H,16Gb,1Tb Ssd,Nvidia RTX 4050,6 Gb Gddr6,16 (40.6Cm) Qhd+ 240Hz,Nvidia G-Sync +,Alienfx RGB Backlit Kb,Dark Metallic,2.61Kg","1,54,490",4
+"Dell Inspion 7430 Laptop, Intel Core i5-13500H Processor, 16GB LP DDR5 + 512GB SSD, 14.0"" (35.56cm) 2.5K 300 nits, Win 11+ MSO'21 + 15 Months McAfee, Backlit KB + FPR, Silver, Thin & Light- 1.66kg","98,187",Not available
+"Dell Inspiron 7420 2in1 Laptop, Intel Core i5-1235U Processor/8GB/512GB SSD/14.0"" (35.56cm)FHD+ with 16:10 Aspect Ratio/Active Pen/Win 11+ MSO'21/McAfee 15 Months/Backlit KB +FPR/Platinum Silver/1.5kg","75,999",1
+"Dell Inspiron 5440 Laptop, Intel Core i5-1334U Processor, 16GB, 1TB, 14"" (35.56cm) FHD+AG NonTouch 250nits WVA Display, Backlit+FPR KB, Win 11 + MSO'24, 15 Month McAfee Antivirus, Ice Blue, 1.54kg","76,377",Not available
+"Dell New Xps 9520 Thin & Light Laptop,Intel I7-12700H,16Gb,512Gb Ssd,Nvidia RTX 3050 Ti(4Gb Gddr6),Windows 11 Home,15.6"" Uhd+,Backlit Kb,Platinum Silver,2.01Kgs(D560070Win9S)","2,39,999",2
+"Dell Vostro 3401 Intel i3-1115G4 Laptop, 8GB DDR4, 256GB SSD, 14 Inches(35cm) FHD Display, Integrated Graphics, Windows 10 + MSO, Black (D552190WIN9BE), 1.59Kg","48,999",147
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,099",7
+"Dell XPS 9320 Laptop, Intel Evo Platform Powered by Intel Core i7-1360P processor/32GB/1TB SSD/13.4"" (34.03cm) UHD+ AR 500 nits Touch/Backlit KB + FPR/Win 11 + MSO'21/15 Month McAfee/Platinum/1.23kg","2,04,590",2
+"Dell G15-5530 Gaming Laptop, Intel Core i7-13650HX Processor/16GB/512GB SSD/NVIDIA RTX 4060, 8GB GDDR6/15.6"" (39.62cm) FHD 165Hz, 3ms sRGB-100%/Win 11 + MSO'21+ McAfee 15 Month/Quantum White/ 2.65kg","1,49,490",Not available
+"Dell XPS 16 9640 Laptop, AI Enabled Processor Intel Core Ultra 7 155H, 32Gb + 1TB SSD,NVIDIA RTX 4060 8 GB GDDR6,16.3"" (40.64cm) UHD+ OLED Touch 400 nits,Backlit KB+FPR,Win 11 + MSO'21,Platinum,2.13kg","3,08,813",Not available
+"Dell G16 7630 Gaming Laptop, Intel i9-13900HX/16GB DDR5/1TB SSD/NVIDIA RTX 4070, 8GB GDDR6/16 (40.64cm) QHD+ 240Hz/Backlit KB RGB/Quantum White/Win 11+MSO'21/15 Month McAfee/2.87kg","2,08,490",2
+"Dell Inspiron 7430 2in1 Touch 13th Gen Laptop, Intel Core i3-1315U Processor, 8GB, 256Gb SSD, 14.0"" (35.56cm) FHD+ Display, Windows 11 + MSO'21, Backlit KB + Finger Print, Silver,Thin & Light- 1.58kg","58,900",30
+"Dell Inspiron 3535, Windows 11 Home, AMD Ryzen 5-7520U, (8GB RAM/512GB SSD/FHD/Window 11/Ms Office' 21/15.6""(39.62 Cm)/15 Month Mcafee/Platinum Silver/1.67Kg Laptop",Not available,Not available
+"(Refurbished) Dell Latitude 5290 8th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM|512 GB SSD|12.5"" (31.8 cm) HD|Windows 11|MS Office|WiFi|BT|Integrated Intel Graphics)","16,499",Not available
+(Refurbished) Dell Latitude E5440 4th Gen Intel Core i5 Thin & Light HD Laptop (8 GB RAM/256 GB SSD/14 (35.6 cm) HD/Windows 10 Pro/MS Office/WiFi/Webcam/Intel HD Graphics),"12,999",14
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,899",Not available
+"(Refurbished) Dell Vostro 3420 Laptop,12th Gen Intel Core i5-1235U, 8GB & 512GB SSD, 14.0"" (35.56Cms) FH","43,641",3
+"DELL Original 65WHR Laptop Battery (91T8W) COMAPATIBLE INSPIRON-14-3421/37/43/21, INSPIRON-15 3537/21/42 INSPIRON-15R, INSPIRON-15R 5521 15R-5537, Latitude 3440 3540","2,349",536
+"(Refurbished) Dell Latitude 3420 Intel Core i7 11th Gen 14"" (35.6 cm) HD (16 GB DDR4 RAM|512 GB SSD|Intel UHD Graphics) Backlit KB|Wi-Fi|Windows 11|Thin & Light Premium Laptop|MS Office","35,999",Not available
+"(Refurbished) Dell Inspiron 3530 Laptop, 13th Generation Intel Core i7-1355U Processor, 16GB, 512GB, 15.6"" (39.62cm) FHD 120Hz Display, Backlit KB, Win 11 + MSO'21, 15 Month McAfee, Silver, Thin & Light-1.62kg","59,065",1
+"(Refurbished) Dell Precision 3530 Intel Core i7 - 8850H Hexa Core Processor 8th Gen, 16 GB Ram & 512 GB SSD, 15.6 Inches FHD Screen with Nvidia Quadro P600 (4GB Graphic Card) Laptop","38,500",2
+"Dell Inspiron 5441, Snapdragon X Plus X1P-64-100 10C Processor | Qualcomm® Adreno™ GPU (16GB RAM) | 512GB SSD|Window11|MS Office'21|14"" (35.62cm)| Titan Gray|1.53 Kgs Laptop","91,490",Not available
+"(Refurbished) Dell Latitude E5480 7th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/256 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Integrated Graphics)","16,999",3
+"Dell Latitude 3440 i3-1215U|8GB|512 SSD|Win 11 Pro|14"" HD|NO ODD|3Yr NBD + 3Yr ADP | Intel WiFi + Bluetooth 5.1 | 3 Cell","36,990",Not available
+"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) HD Laptop (16 GB DDR4 RAM|256 GB SSD|Intel UHD Graphics)|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","24,999",Not available
+"Dell Inspiron 3505 15.6"" (39.62 cms) FHD AG Display Laptop (Ryzen3 3250U / 8GB / 1TB / Integrated Graphics/Win 10 + MSO/Accent Black) D560406WIN9BE","36,594",170
+"(Refurbished) Dell Latitude 5290 8th Gen Intel Core i7 Thin & Light HD Laptop (8 GB DDR4 RAM/512 GB SSD/12.5"" (31.8 cm) HD/Windows 11/MS Office/WiFi/BT/Intel HD Graphics)","19,900",Not available
+"Dell New 2022 Model 14"" Latitude 3420-- i5 11th Gen || 16 GB || 512 GB || 14"" Full-HD (1920 x 1080) || Windows11 Pro || 3 Year Onsite with ADP Warranty || Intel® Iris® Xe Graphics","56,490",4
+"(Refurbished) Dell Latitude 5270 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/12.3"" (31.8 cm) HD/Windows 11/MS Office/WiFi/BT/Intel UHD Graphics)","13,499",50
+"(Renewed) Dell Latitude Air Laptop E7280 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 512 GB SSD, 12.5 Inches (Ultra Slim & Feather Light 1KG) Notebook Computer","16,900",31
+(Refurbished) Dell Vostro 3400 11th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/512 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/Webcam/Intel UHD Graphics),"22,999",3
+"Dell Gaming G16-7630 Laptop, Intel 13th Gen i7-13650HX Processor, 16GB DDR5 + 1TB SSD, NVIDIA RTX 4060 8 GB GDDR6, 16"" (40.64cm) QHD+ 240Hz, 3ms, 1-Zone RGB Backlit KB, Metallic Nightshade, 2.87 Kg","1,37,990",Not available
+"Dell 15 (2021) AMD Ryzen 7-5800H Gaming Laptop, 16GB DDR4, 512GB SSD, Windows 10 + MS Office, NVIDIA RTX 3050 4GB, 15.6 inches FHD, Backlit KB Orange, Platinum Silver, (G15 5515, D560538WIN9W), 2.57kg","87,990",8
+(Refurbished) Dell Latitude 5310 Laptop - Intel Core i7 10th Gen - i7-10610U @ 1.8GHz - Quad Core- 512GB SSD - 16GB RAM - 13.3â€ Touch Screen- FHD- 1920x1080 - Windows 10 Pro,"38,490",1
+"Dell (Renewed) Latitude Laptop E7480 Intel Core I5-6200U Processor 6Th Gen, 8 Gb Ram & 1Tb Ssd, 14.1 Inches (Ultra Slim & Feather Light 1.37Kg) Notebook Computer - Windows 10 Pro","21,500",2
+"(Refurbished) Dell Latitude 3400/Intel Core i5-8265u 14 inches HD Display/8GB RAM/512GB SSD/No Optical Disk Drive/Windows 10 Pro Business Laptop, 1.67829 kg","17,999",Not available
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","20,500",13
+"Dell Inspiron 3520 Metal Laptop, Intel i5-1235U, 8GB, 512GB SSD,MX550 (2GB GDDR6), 15.6"" (39.62Cms) FHD WVA AG 120Hz 250 nits, Win 11 + MSO'21, Backlit KB + FPR, Silver (D560880WIN9S, 1.65Kgs)","65,819",2
+Dell DW316 External USB Slim DVD R/W Optical Drive 429-AAUX,"2,699","14,636"
+"(Refurbished) Dell Precision 7520 Intel Core i7 - 7920HQ Quad Core Processor 7th Gen, 32 GB Ram & 512 GB SSD, 15.6 Inches (Numeric Keypad) FHD Screen with Nvidia Quadro M2200 (4GB Graphic Card) Laptop","44,400",8
+"Dell Inspiron 7620 2in1 Laptop, Intel Core i5-1235U Processor/ 8GB DDR4/ 512GB SSD/ 16"" (40.64cm) FHD+ WVA AG Touch 300 nits/Active Pen/Windows 11+ MSO'21/15 Month McAfee/Platinum Silver/ 2.1kg","56,840",1
+"Dell Inspiron 3525 Laptop, AMD Ryzen R5-5500U/8Gb/512Gb/15.6"" (39.62Cm) FHD Wva Ag 120Hz 250 Nits/Win 11 + Mso'21,15 Month Mcafee/Carbon Black/1.68Kg","41,750",5
+"(Refurbished) Dell Latitude Laptop 7390 Intel Core i7 Mobile-8th Gen Processor , 8 GB Ram & 256 GB SSD, 13.3 Inches FHD 1080p 1.17KG Light Weight Notebook Computer","27,490",4
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (8 GB DDR4 RAM/512 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"20,490",Not available
+"Dell Inspiron 5635 Laptop, AMD Ryzen 5-7530U/ 8GB/ 512GB SSD/ 16.0"" (40.64cm) FHD+ WVA AG 250 nits with Comfort View Support/Backlit KB + FPR/Windows 11+MSO'21/15 Month McAfee/Platinum Silver,1.84kg","56,170",1
+"Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, 15.6"" (39.62cm) FHD Display, Standard Keyboard, Win 11+MSO'24 & 15 Month McAfee, Carbon Black, 1.62kg","58,138",Not available
+"(Refurbished) Dell Latitude 3420 Intel Core i5 11th Gen 14"" (35.6 cm) HD (8 GB DDR4 RAM|256 GB SSD|Intel Iris Xe Graphics) Backlit KB|Wi-Fi|Windows 11|Thin & Light Premium Laptop|MS Office","27,999",Not available
+"(Refurbished) Dell Latitude 5410 Intel Core i7 10th Gen 14"" (35.6 cm) HD Laptop (8 GB DDR4 RAM|256 GB SSD|Intel UHD Graphics)|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","27,999",Not available
+"Dell Latitude 5000 5450 14"" Notebook - Full HD - Intel Core Ultra 5 135U - 16 GB - 512 GB SSD - Titan Gray","1,39,990",Not available
+"(Refurbished) Dell Latitude 3420 Intel Core i3 11th Gen 14"" (35.6 cm) HD (8 GB DDR4 RAM|256 GB SSD|Intel UHD Graphics) Backlit KB|Wi-Fi|Windows 11|Thin & Light Premium Laptop|MS Office","23,999",Not available
+"(Refurbished) Dell Latitude 3480 6th Gen Intel Core i3 Thin & Light HD Laptop (8 GB DDR4 RAM/512 GB SSD/14"" (35.6 cm)/Windows 11/MS Office/WiFi/Bluetooth 4.0/Webcam/Intel HD Graphics)","14,999",4
+(Refurbished) Dell Latitude 3410 || Core i5- 10210U || 10th Generation || Windows 10 Pro || 8GB || 256GB SSD,"20,000",Not available
+"Dell Latitude 3420 3000 14"" FHD IPS (Intel 4-Core i5-1135G7 (Beat i7-1065G7), 16GB RAM, 512GB PCIe SSD, Iris Xe Graphics) Business Laptop, WiFi 6, Webcam, HDMI, Type-C, Win 11 Pro - 2023","74,999",10
+(Refurbished) DELL LATITUDE 5480 Lightweight (Core i5 7th GEN/ 8GB RAM/ 256GB SSD/ WEBCAM/ 14'' NO TOUCH/ WIN 11 PRO),"17,575",Not available
+"Dell 15 (2022) Intel I5-1135G7, 16Gb/512Gb Ssd, Windows 11+Mso'21, 15.6 Inches (39.61 Cms) Fhd Display, Platinum Silver (D560659Win9S, Inspiron 3511)","48,500",11
+"Dell [Smartchoice G15-5530 Gaming Laptop, Intel Core i5-13450HX, 16GB DDR5, 1TB, NVIDIA RTX 3050,6GB","85,769",Not available
+"Dell Vostro 3400 14 inches (35cm) FHD Display Laptop (Intel i5-1135G7 / 8GB / 1TB HDD + 256GB SSD/Integrated Graphics/Windows 10 + MSO/Black) D552186WIN9BE, 1.59kg","65,000",328
+Dell Latitude 3440 Intel I5-1235U/8GB/512 SSD/14FHD/No Odd/Win11 Pro/3Y+3Y with Backpack,"55,000",1
+"(Refurbished) Dell Latitude E7250 5th Gen Intel Core i7 Thin & Light HD Laptop (16 GB RAM/512 GB SSD/12.5"" (31.8 cm) HD/Windows 10 Pro/MS Office/WiFi/BT/Intel Graphics)","21,990",Not available
+"Dell XPS 13 9300 Laptop, 13.4 UHD (3840 x 2400) 4K Touchscreen, Intel 10th Gen Quad-Core i5-1035G1, 8GB RAM, 512GB SSD, Backlit Keyboard, WiFi 6, Fingerprint, Webcam Windows 10, Silver","69,000",7
+Dell Inspiron 15 (5568/5567) 13 (5368/5378) 7368 42Whr 3Cell Battery (FW8KR),"2,525","1,551"
+"(Refurbished) Dell Latitude Laptop 5480 Intel Core i7 -7th Gen -Processor , 8 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Notebook Computer","25,720",Not available
+Dell G3 3500 Gaming Laptop 15.6 inches FHD 120 Hz Display (10th Gen Intel Core i5-10300H/8GB/512GB SSD/Windows 10 Home/MS Office/4GB NVIDIA1650 Ti Graphics/Eclipse Black) D560254WIN9BL,"64,399",5
+"(Refurbished) Dell Latitude 7410 14"" Notebook - Full HD - 1920 x 1080 - Core i7 i7-10610U 10th Gen 1.8GHz Hexa-core (6 Core) - 16GB RAM - 512GB SSD","41,600",37
+"Dell Thunderbolt Dock WD22TB4, 9 Various of Ports, Video Resolution: 5K - 60 Hz (Single Display), 4K - 60 Hz (Quad Display), Interfaces: 2 x Thunderbolt 4","16,900",283
+dell vostro 1015 65w laptop adapter/charger- Black,"1,329",281
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 8 GB Ram & 1TB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","28,500",Not available
+"(Refurbished) Dell Latitude 5290 8th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM|256 GB SSD|12.5"" (31.8 cm) HD|Windows 11|MS Office|WiFi|BT|Integrated Intel Graphics)","17,499",Not available
+Dell Latitude 3440 Intel Core i3 / 8GBRAM / 256 SSD / 1 Year Warranty/Windows 11 pro with Backpack,"33,700",Not available
+(Refurbished) Dell Precision 5550 || i9 -10885H || 16GB || 1TB NVMe || T2000 4 GB || Win 10 Pro (Free Upgrade Win 11Pro) / 15.6 FHD+ / 3 Year ADP,"72,000",1
+(Refurbished) Dell Precision 5540 || i7-9850H || 16GB RAM || 512GB NVME SSD || Quadro T1000 4GB DDR5 ||,"47,500",1
+"(Refurbished) Dell Latitude 5420 || Intel Core i7- 1165G7 (4 Core, 12M Cache, bas e 2.8GHz, up 4.7GHz) || 16GB RAM || 512GB SSD || Windows 10 Pro English || 14inch FHD (1920x1080) || 3 Years ADP Warranty, Silver","52,500",2
+"(Refurbished) Dell Latitude Laptop 7390 Intel Core i7 Mobile-8th Gen Processor , 16 GB Ram & 256 GB SSD, 13.3 Inches FHD 1080p 1.17KG Light Weight Notebook Computer","31,990",9
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 8 GB Ram & 512 GB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","28,500",Not available
+"Dell [Smartchoice 14 Thin & Light Laptop, Intel 12th Gen Core i5-1235U/8GB/512GB SSD/14.0"" (35.56cm)","49,089",2
+"Dell Vostro 3420 Laptop - Intel i5-1135G7, 8GB DDR4 & 512GB SSD, Windows 11 + MSO'21, 14.0""/35.56Cms FHD WVA AG 250 nits Narrow Border, Carbon Black (D552281WIN9BE, 1.48Kgs)","53,900",80
+"(Refurbished) Dell Precision 5530 Mobile Workstation |15.6"" FHD IGZO4 | 2.6 GHz Intel Core i7-8850H Six-Core | 32GB DDR4 | 512GB SSD | NV Quadro P1000 (4GB) - Win 10 pro","46,499",1
+"Dell Latituide 3440 Intel I5-1235U / 16GB Ram / 512 SSD/Win 11 Pro / 14"" FHd/No Odd / 4 Yrs + 4 Yrs ADP/Backlit KB/Essential Backpack","66,750",Not available
+"Dell Inspiron 7430 2in1 Touch Laptop, 13th Gen Intel Core i3-1315U/8GB LP DDR5/1TB SSD/14.0"" (35.56cm) FHD+ Display/Active Pen/Win 11 + MSO'21/15 Month McAfee/Platinum Silver/Thin & Light-1.58kg","66,990",22
+"Dell (Smartchoice) G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB, 16GB RAM|1TB SSD, FHD|Win-11|MSO' 21|15.6""|Dark Shadow Grey + Alienware Tenkeyless Gaming Keyboard - AW420K (Dark Side of The Moon)","87,899",Not available
+"Dell Inspiron 5410 2021 Intel Core i3-1125G4 14 inches 2in1 Touch Screen Laptop, 8Gb RAM, 512Gb SSD, FHD Display, Windows 10 + MSO, Backlit KB + FPR + Active Pen (Silver Metal, 1.5 kg) D560466WIN9S","62,999",39
+"Dell (Smartchoice) G15-5530 Core i5-13450HX| NVIDIA RTX 3050, 6GB, 16GB RAM|1TB SSD, FHD|Win-11|MSO' 21|15.6""|Dark Shadow Grey + Dell Alienware AW720M-Dark Side of The Moon Tri-Mode","88,765",Not available
+"Dell Latitude E5470 6th Gen Intel Core i5 2.3 GHz 8 GB DDR4 RAM 500 GB HDD 14"" HD Windows 11 MS Office WiFi BT Intel HD Graphics","13,499",1
+"Dell EcoLoop Essential Backpack 14-16,Black","1,113",311
+(Refurbished) Dell Latitude E6440 4th Gen Intel Core i7 Thin & Light HD Laptop (8 GB DDR3 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 10 Pro/MS Office/WiFi/BT/Intel HD Graphics),"89,999",Not available
+"(Refurbished) DELL OPTIPLEX 3040 i3-6100T Tiny Desktop (Core I3 6th gen 3.2ghz,8 GB RAM, 256 GB SSD, Win 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black Windows","6,050",125
+"(Refurbished) Dell Latitude 5420 Intel Core i7 11th Gen 14"" (35.6 cm) FHD Touchscreen (8 GB DDR4 RAM|256 GB SSD|Intel Iris Xe Graphics) Backlit KB|Wi-Fi|Windows 11|Thin & Light Laptop|MS Office","34,999",Not available
+"Dell 130W 19.5V 6.7Amp Adapter 7.4mm Laptop Charger Adapter XPS 15 Laptops, Black - Without Power Cord","2,495",143
+"Dell 20L EcoLoop Pro Backpack 15, Laptops with Anti-Scratch Nylex Lining & All-Weather Resistance","2,545",16
+"Dell Laptop Adapter AC 90w (Without power cable, Black)","1,699",378
+"(Refurbished) Dell New 14"" Latitude 3420- i5 11th Gen || 8 GB || 512 GB SSD || 14"" HD || Windows10 Pro || Backlit || Intel® Iris® Xe Graphics","39,500",Not available
+DELL 65W Genuine Original Laptop Adapter for DELL INSPIRON 1464(Power Cord NOT Included) - Black,"1,199",232
+"Dell 130W 240V Slim 7.4 MM Pin Laptop Charger Adapter For Alienware, Inspiron 15, Latitude, Precision And Vostro 15 Models - Black Without Power Cord","2,499","1,256"
+"Dell DA310 USB-C Mobile Adapter, 7-in-1 , Type C Laptop Compatible - Dock and Adapter - Gray","7,199",732
+"(Refurbished) Dell Precision Mobile Workstation M7530, Intel Core i7 8850H, 32GB RAM, 512 GB Hard Disk, Nvidia Quadro P3200 6GB Graphic Card,15.6"" Screen, Windows 10 Pro, 3 Years Warranty by Dell.","58,000",Not available
+"Dell (15.6 "") 20L Capacity Essential Backpack-15 (ES1520P), Water Bottle Holder, Water Resistant, Zi","1,389",Not available
+"Dell EcoLoop Pro Briefcase-CC5623-Black, Compatible up to 15.6"" (39.62 cm), Weather Resistant, Luggage Pass Through, Padded Carry Handles, Detachable Shoulder Strap, Warranty 3 Year","1,859","1,511"
+"Dell Original 4.5A 3P 45W Laptop AC Adapter Without Power Cord”, Black, (LA45NM140)","1,275","1,351"
+Dell DW316 USB DVD-RW Drive,"2,699","1,448"
+"Dell Original 65w | 7.4mm | 19.5v | 3.34A | Laptop AC Adapter-Black, 1 Year Warranty (Without Power Cord) | Part Code - G4X7T / 6TM1C","1,900",852
+Dell Original 65W 19.5V Adapter for Laptops Vostro 2420 2421 2520 2521 3360 3460 (Without Power Cable) Black,"1,199",653
+"Dell KM5221W Wireless Combo - RF 2.4GHz Wireless Keyboard with 12 Programmable Keys and 3 Button Optical Mouse, Spill-Resistant Keys, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Black","2,199",725
+Dell USB Wired Keyboard and Mouse Set (Black) KB216+MS116,"1,088","4,332"
+"Dell P2725H 27""/68.58cm FHD IPS Monitor, Anti-Glare, 99% SRGB,100Hz, 5ms (Fast Mode),Ports: 1x HDMI|1x DP 1.2|1x VGA| 3X USB 3.2 Gen1 (A) | 1x USB 3.2 Gen1 Type-C [15W PD] | Height Tilt Swivel Pivot","17,399",936
+"Dell-D2020H 20"" (49.53 cm) HD+ Monitor, TN Panel, Contrast Ratio 600:1/600:1(Dynamic)16.7 Million Colours,Colour Gamut 72% NTSC(CIE 1931), 3-Year Warranty, HDMI & VGA, Tilt Adjustment","5,599",448
+Dell MS116 USB Optical Mouse (Black),299,"14,447"
+"Dell Pro Briefcase 15 - PO1520C - Fits Most laptops up to 138.1 cm (15"")",Not available,111
+"Dell MS3220-Black Laser Wired Mouse, 3200 DPI, Scrolling Wheel USB 2.0 Interface",899,210
+Dell Genuine Inspiron 17 7778 7779 P30E 56Wh 15.2V Battery 81Pf3 081Pf3 …,"3,649",35
+"(Refurbished) Dell Optiplex 7040 Mini PC (Intel Core i5 6th gen, 16 GB DDR4 RAM, 512 GB SSD, Windows 11, WiFi, MS Office|Intel HD Graphics|USB, Ethernet,DP), Black","9,800",943
+"Dell Premier Briefcase 15 - PE1520C - Fits Most laptops up to 38.1 cm (15"")","5,499",11
+(Refurbished) Dell WD19TB Thunderbolt Docking Station with 180W AC Power Adapter (130W Power Delivery) (Black),"7,600",160
+Dell Roller Backpack 38.1cm (15inch),"6,039",24
+Dell DA310 USB-C Mobile Adapter,"6,659",612
+"Dell Pro Slim Backpack 15 - PO1520PS - Fits Most laptops up to 38.1 cm (15 inches, Black)",Not available,589
+Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"14,239",651
+"(Refurbished) Dell Optiplex Desktop ( Core i5 8 GB 500GB HDD Windows MS Office Intel HD Graphics), Black","5,389",702
+"Dell Thunderbolt Dock WD22TB4, 9 Various of Ports, Video Resolution: 5K - 60 Hz (Single Display), 4K - 60 Hz (Quad Display), Interfaces: 2 x Thunderbolt 4",Not available,632
+"(Renewed) Dell Latitude Laptop Windows 10 Pro E7470 Intel Core i5 - 6300u Processor, 8 GB Ram & 256 GB SSD, 14.1 inches Screen (Ultra Slim & Light 1.58KG) Notebook Computer","22,500",89
+Dell Latitude Along with Bag 3440 i3-1215U/8GB/512 SSD/14HD/No ODD/WIN11 Pro/3Y+3Y,"37,990",Not available
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (32 GB DDR4 RAM/1 TB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"26,100",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (64 GB DDR4 RAM/512 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"28,490",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,990",1
+(Refurbished) Dell Latitude E7470 Intel Core i7 6th Gen 14 inches Laptop /16 GB RAM/512 GB SSD/Windows 1,"19,999",171
+"Dell Precision 3480 Workstation Intel Core i7-1370P 14"" FHD(1920 x 1080) LCD 400 nits 32GB DDR5 RAM, 1TB SSD, NVIDIA RTX A500 4GB Window 11 Pro","2,03,990",Not available
+"Dell 1600DPI, WiFi/Bluetooth Wireless Mouse MS3320W with 3 Yrs Exchange - Titan Gray","1,870",274
+"Dell Precision 3480 Workstation Intel Core i7-1370P 14"" FHD(1920 x 1080) LCD 400 nits 64GB DDR5 RAM, 1TB SSD, NVIDIA RTX A500 4GB Window 11 Pro","2,09,990",Not available
+"(Refurbished) Dell Latitude 5400 Notebook (Intel Core i7-8250U/ 16 GB Ram- 256 GB SSD 14"" FHD/ Win 10 pro)","22,499",10
+"Dell 15 (2022) Intel I7-11800H, 16Gb/512Gb Ssd, Windows 11+Mso'21, Nvidia RTX 3050 Ti 4Gb, 15.6 Inches (39.61 Cms) Uhd+ Display, Platinum Silver (D560061Win9S, Xps 9510)","2,32,221",1
+"Dell [Smartchoice G15-5530 Gaming Laptop, Windows, Intel Core i5-13450HX, 16GB DDR5, 1TB, NVIDIA RTX 3050,6GB","81,509",Not available
+Dell-CP5724S EcoLoop Pro Slim Backpack-(G8K6G5X),"2,700",9
+"Dell Windows Inspiron 3515 Laptop, AMD Ryzen 5-3450U, Win 11 + MSO'21, 8GB GDDR4, 512Gb SSD, Vega Graphics, 15.6"" (39.62Cms) FHD Anti-Glare, Carbon Black - D560790WIN9BE, 1.8Kgs","50,490",188
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 16 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","15,800",14
+(Refurbished) Dell Latitude 3460 Intel Core i3 5th Gen Thin & Light HD Laptop (8 GB RAM/500 GB HDD/14 (35.6 cm) HD/Windows 10/MS Office/WiFi/Webcam/Intel HD Graphics),"11,999",1
+"Dell WL5024 Pro Wireless ANC Headset - Hybrid Active Noise Cancellation, AI-Based Noise Cancellation Microphone, Leatherette Headband, Effortless connectivity, Microsoft Teams/Zoom Certified - Black","19,499",7
+"Dell Inspiron 3530 Thin & Light Laptop, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, 15.6"" (39.62cm) FHD Display, Backlit Keyboard, Windows 11 + MSO'24 & 15 Month McAfee, Silver,1.62kg","60,444",Not available
+"Dell Latitude 3440/Core i3-1215U/8GB/512GB SSD/14 HD/Ubuntu, Intel Dual Band Wi-Fi + Bt5.1/UBU/3 Year Warranty with 3Y ADP","37,890",Not available
+"Dell KM7321W Multi-Device Wireless (RF/Bluetooth) Keyboard and Mouse Combo with Programmable Keys and Mouse Buttons, up to 36 Month Battery Life, 3Y Advance Exchange Warranty - Titan Grey","5,204",436
+"Dell G15-5530 Core i5-13450HX|NVIDIA GeForce RTX 3050, 6 GB (16GB RAM)|512GB SSD, FHD|RGB Backlit Keyboard & G-Key |Window 11|MS Office'21|15.6"" (39.62cm)|Dark Shadow Gray|2.65Kg|Gaming Laptop","78,890",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 8 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","17,490",Not available
+"Dell S2722DC 27""/68.58 cm QHD (2560x1440) Monitor |75Hz IPS Panel | 4ms | 99% Srgb | 350 cd/m2|Dual Speakers & USB-C Hub | AMD Freesync|1xHDMI, 1xUSB-C, 2xUSB 3.2 | Height Pivot Swivel Tilt","22,598","1,150"
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (32 GB DDR4 RAM/256 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"22,390",Not available
+"Dell New 2022 Model 14"" Latitude 3420-- i5 11th Gen || 16 GB || 512 GB M.2 SSD || 14"" Full-HD (1920 x 1080) || Ubuntu® Linux® 20.04-Dos || 3 Year Onsite with ADP Warranty || Intel® Iris® Xe Graphics","55,990",10
+"Dell Latitude 3480 56Wh, 15.2V, 3500mAh Laptop Battery (Original) 7FHHV …","3,649",35
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 32 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","34,100",1
+"Alienware m16 R2 Gaming Laptop, AI Enabled Processor Intel Core Ultra 9 185H, 16GB, 1TB SSD, NVIDIA RTX 4060, 8 GB GDDR6, 16"" (40.6cm) QHD+ 240Hz, AlienFX RGB Backlit KB, Dark Metallic Moon, 2.61kg","1,65,990",9
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","25,000",8
+"Dell HD22Q Dual Monitor Docking Station with Wireless Charging Stand, USB-C, HDMI and DisplayPort - HD22Q","14,469",78
+(Refurbished) Dell Precision 5560 Laptop - 15.6 inch UltraSharp FHD AG - 2.3 GHz Intel Core i7 8-Core (1,"78,000",1
+"(Refurbished) DELL Latitude 5490 Core i5 7th Gen Laptop, 16 GB RAM, 1TB SSD, Intel HD Graphics, 14 inch (36.83 cms) HD Screen, Windows 11 (Upgraded), MS Office, Black, Slim","24,900",76
+"(Refurbished) Dell Latitude E5450 5th Gen Intel Core i5 Thin & Light HD Laptop (8 GB RAM/512 GB SSD/14"" (35.6 cm) HD Display/Windows 10 Pro/MS Office/WiFi/BT/Webcam/Intel Graphics)","18,990",Not available
+"Dell Vostro 15 3520 Laptop - 15.6"" FHD, Intel Core i5-1235U, 8GB RAM, 512GB SSD, Titan Grey + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","52,489",Not available
+"Dell Latitude 3000 3420 14"" Notebook - HD - 1366 x 768 - Intel Core i3 11th Gen i3-1115G4 Dual-core (2 Core) 3 GHz - 8 GB Total RAM - 256 GB SSD","32,900",2
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","22,489",1
+"(Renewed) Dell Latitude Laptop E5570 Intel Core i5 - 6300u Processor, 4 GB Ram & 256 GB SSD, 15.6 Inches Numeric Keypad Notebook Computer","18,800",Not available
+"Dell Latitude 5420 || Intel Core i7- 1165G7 (4 Core, 12M Cache, bas e 2.8GHz, up 4.7GHz) || 16GB RAM || 512GB SSD || Windows 10 Pro English || 14inch FHD (1920x1080) || 3 Years ADP Warranty, Silver","1,13,990",5
+"Dell G15-5525 Gaming Laptop, AMD R7-6800H, 16GB DDR5, 1TB SSD, NVIDIA RTX 3070 Ti (8GB GDDR6), 15.6"" (39.62Cms) FHD Wva Ag, 165 HZ 300 Nits, Win 11+ Mso'21, Phantom Grey (D560898Win9S, 2.51Kgs)","1,39,490",7
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (16 GB DDR4 RAM/2 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"28,690",Not available
+"Dell Inspiron 7630 2in1 Laptop, Intel i7-1360P/16GB/512GB SSD/MX550 2GB GDDR6/16.0"" UHD+ Touch, Active Pen/Backlit KB + FPR/Win 11 + MSO'21/15 Month McAfee/Blue/ 2.11kg","95,000",Not available
+"Dell Gaming G15-5530, Laptop, Intel i5-13450HX/16GB/512GB SSD/NVIDIA RTX 3050, 6GB GDDR6/15.6"" FHD/Backlit KB 4-Zone RGB/Dark Shadow Gray + Alienware Tenkeyless Gaming KB-AW420K-Dark Side of The Moon","87,089",Not available
+"(Refurbished) Dell Latitude Laptop E7480 Intel Core i7 - 7600u Processor 7th Gen, 16 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","32,990",Not available
+"Dell Inspiron 3520 Laptop,11th Gen Intel Core i3-1115G4, Windows 11 + MSO'21, McAfee 15 Months, 8GB, 512GB SSD, 15.6"" (39.62Cms) 3 Sided Narrow Border Design with 120Hz FHD Display, Black, 1.65Kgs","36,990",6
+"Dell-P2425H 24"" (60.96 cm) FHD Monitor, IPS Panel, Refresh Rate 100Hz, Response Time-5ms G-to-G (Fast Mode), 99% sRGB, 250 cd/m2 (Typical)","11,999",4
+"Dell Inspiron 3520 Metal Laptop, Intel Core i5-1235U Processor, 16GB/ 512GB SSD/ MX550 (2GB GDDR6)/ 15.6"" (39.62cm) FHD/Windows 11 + MSO'21/15 Month McAfee/Backlit KB + FPR/Silver/ 1.65kg","60,370",2
+"Dell XPS 13 Laptop, On-Device AI with Copilot+, 12 Core Snapdragon X Elite (Dual Core Boost), 13"" (33.02cm) FHD+ 30-120Hz 500 nit, 16GB + 512GB,Qualcomm NPU 45 TOPS, Backlit KB + FPR, Graphite, 1.19kg","1,41,583",2
+"Dell G15-5530 Gaming 13Th Gen Laptop,I7-13650Hx Processor/16Gb/512Gb Ssd/Nvidia RTX 4050 6Gb Gddr6/15.6"" Fhd 120Hz 250 Nits/Win 11 + Mso'21/Backlit Kb 4-Zone RGB/Dark Shadow Gray/2.65Kg-Intel",Not available,5
+"(Refurbished) Dell Latitude 5280 7th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/256 GB SSD/12.5"" (31.8 cm) HD/Windows 11/MS Office/WiFi/BT/Intel UHD Graphics)","15,999",1
+"Dell Ecoloop Pro Sleeve 11-14-Cv5423 for Laptops,Black","3,876",32
+"(Refurbished) Dell OPTIPLEX 3060 Tiny Desktop (Intel Core i3 8th gen 2.5ghz, 8 GB RAM, 240gb SSD, Windows 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black","10,075",312
+"Dell Refurbished Inspiron 3520 Laptop, 12th Gen Intel Core i5-1235U Processor, 8GB, 1TB HDD + 256GB SSD, 15.6"" (39.62cm) FHD WVA AG 120Hz 250 nits, Windows 11 + MSO'21, 15 Month McAfee, Black, 1.65Kgs","50,400",131
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 32 GB Ram & 1TB SSD, 14.1 Inches FHD 1080p Screen (Ultra Slim & Feather Light 1.59KG) Notebook Computer","27,990",8
+Dell GM1720PE Gaming Lite laptop backpack with Water Repellent Exterior for 17 inch laptop (Black),"2,495",45
+"(Refurbished) Dell Latitude 6th Gen Intel Core i7 Thin & Light HD Laptop (16 GB DDR4 RAM/512 GB SSD/12.5"" (31.8 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Integrated Graphics)","21,999",Not available
+Dell 3440/corei3 12th Gen/8GBRAM/256 SSD/1 Year Warranty/Win 11 pro/with bagpack,"34,500",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 16 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","18,390",Not available
+"(Refurbished) Dell Windows .Optiplex 3040 Tiny Desktop - Core I5 6Th Gen, 16 Gb Ram, 480Gb Ssd, - Win 11 Upgraded, Ms Office/ Intel Hd Graphics/, Usb 3.0, Ethernet, Vga, Black","9,996",464
+"(Refurbished) Dell Latitude 5290 8th Gen Intel Core i7 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/12.5"" (31.8 cm) HD/Windows 11/MS Office/WiFi/BT/Intel HD Graphics)","18,999",Not available
+(Refurbished) Dell Latitude E5440 Intel Core i5 4th Gen 14 inches Laptop /8GB RAM - Upgradable to 16/256,"21,500",17
+"(Refurbished) Dell Latitude Laptop E5550 Intel Core i5 - 5300u Processor , 8 GB Ram & 256 GB SSD, 15.6 i","15,000",Not available
+Dell Latitude 3440 Intel Core i7-1355U/8GB/512 SSD/Win 11 Pro/14 FHD/NO ODD with Backpack,"92,500",Not available
+Dell Universal Dock UD22 Black,"18,419",218
+"Dell Inspiron 5441 Laptop, 300 Nits WVA IPS NT 60Hz Display, Snapdragon X Plus X1P-42-100 8C Processor/16GB/ 512GB SSD/ 14"" (35.56cm) FHD/Backlit KB/Windows 11+MSO'21/15 Month McAfee/Titan Gray/1.53kg","82,990",1
+(Refurbished) Dell Lattitude E5270 Intel Core I5 6th Gen 12.5 inches HD Laptop (8GB DDR4 RAM-256 GB SSD-,"18,950",146
+"Dell Ecoloop Pro 17 Inch Laptop Backpack With Anti-Scratch Nylex Lining, 360° Eva Foam Cushioning,Black",Not available,17
+(Refurbished) DELL LATITUDE 7280 Lightweight(Core i5 7th GEN/ 8GB RAM/ 256 SSD/ WEBCAM/ 12.5'' NO TOUCH/ WIN PRO) 1 Year Warranty,"16,400",10
+Dell Mobile USB Adapter Speakerphone - MH3021P,"15,499",68
+"Dell MS3220 Wired Laser Mouse, up to 3200DPI, Lightweight, Ambidextrous with 2 Programmable Buttons - Titan Grey","1,049",127
+"Dell Gaming G15 Laptop, 13th Gen Windows, Intel Core i5-13450HX Processor/8GB/512GB SSD/NVIDIA RTX 3050 (6GB","76,109",Not available
+Dell Adapter USB 3.0 to Ethernet PXE Boot Extension Cable,"1,999",20
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 16 GB Ram & 256 GB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","27,990",Not available
+Dell Latitude 3440 Intel i5-1235U/8GB/512 SSD/Win 11 Pro/14 FHD/NO ODD/3 Yrs + 3 Yrs ADP/Backlit KB/Essential Backpack/3 Cell/INDLati3440N3-3,"54,750",Not available
+"(Refurbished) Dell Latitude E7290 7th Gen Intel Core i5 Thin & Light HD Laptop (16 GB RAM/256 GB SSD/12.5"" (31.8 cm) HD/Windows 11 Pro/MS Office/WiFi/Webcam/Intel HD Graphics)","18,899",5
+"(Refurbished) Dell Thin & Light Inspiron 7440 2in1 Laptop, Intel Core 7 150U, 16GB + 1TB SSD, 14"" (35.62cm) FHD+ 250nits Touch, Dell Active Pen, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.71kg","81,591",Not available
+"(Refurbished) Dell Latitude E7470, Intel Core i5 6th Gen/8gb/256gb Ssd/webcam/14''/Windows 10 Pro","19,700",10
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (16 GB DDR4 RAM/1 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"24,790",Not available
+"(Refurbished) Dell Latitude 5401 9th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM|512 GB SSD|14"" (35.6 cm) HD|Windows 11|MS Office|WiFi|BT|Intel HD Graphics)","24,000",Not available
+"Dell Inspiron 3511 Laptop, Intel Core I5-1135G7 Processor/ 8GB/ 512GB SSD/ 15.6"" (39.62cm) FHD Display/Backlit KB/Windows 11 + MSO'21/15 Month McAfee/Platinum Silver/ 1.8kg","49,500",37
+DELL ECOLOOP PRO Backpack(CP5723),"2,499",9
+Dell Performance Dock - WD19DCS Docking Station with 240W Power Adapter (Provides 210W Power Delivery; 90W to Non-Dell Systems),"21,599",164
+"Dell Precision 3000 3590 15.6"" Mobile Workstation - Full HD - Intel Core Ultra 5 125H - Intel Evo Platform - 16 GB - 256 GB SSD - English (US) Keyboard - Titan Gray","1,29,990",Not available
+"Dell Gaming G15-5530 Laptop, Intel 13th Gen i5-13450HX Processor, 16GB DDR5 + 512GB SSD, NVIDIA RTX 3050 6 GB GDDR6, 15.6"" (39.62cm) FHD Narrow 120Hz, 4-Zone RGB Backlit KB, Dark Shadow Gray, 2.65 Kg","78,990",Not available
+"(Refurbished) Dell G16-7630 Gaming Laptop, Intel Core i7-13650HX Processor/16GB/1TB SSD/NVIDIA RTX 4060, 8GB GDDR6/16 (40.64Cm) QHD+ 165Hz, 3ms, sRGB-100%/Win 11+MSO'21+McAfee 15 Month/Quantum White/2.87kg","1,34,423",Not available
+"Dell (Renewed) Latitude Laptop E7480 Intel Core I5-6200U Processor 6Th Gen,8 Gb Ram&256 Gb Ssd,14.1 Inches (Ultra Slim&Feather Light 1.37Kg) Notebook Computer,Windows 10 Pro","20,000",47
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (8 GB/256 GB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-8-256","24,390",2
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (16 GB DDR4 RAM/1 TB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"24,190",Not available
+(Refurbished) Dell Latitude E6420 2nd Gen Intel Core i7 Thin & Light HD Laptop (8 GB RAM/500 GB HDD/14 (35.6 cm) HD/Windows 10 Pro/MS Office/WiFi/BT/Intel HD Graphics),"89,999",Not available
+"(Refurbished) Dell Latitude 5430 Laptop - 14"" HD (1366 x 768) AG Display - Intel Core i5-1235U 10-Core (12th Gen) - 512GB SSD - 16GB - Win11/Win10 Pro","51,490",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","20,500",24
+"Dell Branded Laptop Sleeve Protective Cover Bag Notebook case 15"" inch for Laptop","3,999",2
+"Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX, 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB GDDR6, 15.6"" FHD, Backlit KB Orange + Alienware Tenkeyless Gaming Keyboard - AW420K (Dark Side of The Moon)","86,089",Not available
+"(Refurbished) Dell Latitude 5490 7th Gen Intel Core i5 Thin & Light FHD Laptop (16 GB DDR4 RAM/256 GB SSD/14"" (35.6 cm) FHD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Integrated Graphics)","18,999",1
+"Dell Precision 7770 Mobile Workstation - 17.3"" FHD AG Display - 4.8 GHz Intel Core i7-12850HX 16-Core - 2TB SSD - 64GB RAM - NV RTX A4500 (16GB GDDR6) - Windows 11 Pro","3,49,990",Not available
+"Dell G16-7630 Gaming Laptop, Intel Core i7-13650HX Processor/ 16GB/ 1TB SSD/NVIDIA RTX 4060 8GB GDDR6/16 inch (40.64cm) QHD+ 165Hz/ Windows 11 + MSO'21/ McAfee 15 Month/Metallic Nightshade/ 2.87kg","1,63,690",4
+"Dell Inspiron 7640 Thin & Light Laptop, Intel Core i5-13420H Processor, 16GB DDR5 + 512GB SSD, 16"" (40.64cm) FHD+ 250nits Display, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.90kg",Not available,Not available
+"Dell Windows Inspiron 3515 Laptop, AMD Ryzen 5-3450U, Win 11 + MSO'21, 8GB GDDR4, 512Gb SSD, Vega Gr","50,760",Not available
+"Dell New 14"" Latitude 3420-- I5 11Th Gen || 16 Gb || 1Tb + 512 Gb Ssd || 14"" HD || Windows10 Pro ( Upgradeable Windows 11 Pro) || 3 Year Onsite with Adp Warranty || Backlit || Intel Iris Xe Graphics","63,750",5
+"(Refurbished) Dell Precision 7520 Intel Core i7 - 7920HQ Quad Core Processor 7th Gen, 16 GB Ram & 512 GB SSD, 15.6 Inches (Numeric Keypad) FHD Screen with Nvidia Quadro M2200 (4GB Graphic Card) Laptop","49,990",Not available
+"(Refurbished) Dell OPTIPLEX 3040 Windows Tiny Desktop - Core i3 6th gen 3.2ghz, 8 GB RAM, 240gb SSD, Win 11 - Upgraded, MS Office/ Intel HD Graphics/, USB 3.0, Ethernet, VGA, Black","6,995",383
+Dell Energy Camo 3.0 Backpack,"4,799",23
+"Dell Latitude 7450 Laptop - 14"" FHD Display - Intel Core Ultra 7-165U vPro - 256GB SSD Drive - 32GB RAM - Windows11 pro","1,94,999",Not available
+"(Refurbished) Dell Latitude 7290 12.5 Inch Display Laptop-Intel (Core i7 8th Gen, 16 GB DDR4 RAM, 256 GB SSD, Windows 10 Professional upgradable to Windows 11)","18,999",3
+"(Refurbished) Dell Inspiron 5445 Thin & Light Laptop, AMD R7-8840U Processor, 16GB DDR5 + 512GB SSD, 14"" (35.52cm) FHD+AG 250nits Display, Backlit KB + FPR, Win 11 + MSO'21, 15 Months McAfee, Ice Blue, 1.61kg","57,791",Not available
+Dell Inspiron 45W Charger 4.5MM Adapter Power Cord for Laptops - (Black) Without Power Cord,"1,179",586
+"Dell Display Port to VGA Adapter Connector for Enhanced Presentation and Intricate Graphics for Monitor, Personal Computer, Laptop, Projector, Black","2,000",37
+(Refurbished) Performance Dock WD19DC-210W 240W AC PD,"11,500",29
+"(Refurbished) Dell Latitude Laptop 5480 Intel Core i7 -7th Gen -Processor , 8 GB Ram & 2TB SSD, 14 Inches FHD 1080p Notebook Computer","32,500",Not available
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (16 GB DDR4 RAM/128 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"19,590",Not available
+"Dell Refurbished Latitude 7420 Laptop - 14"" FHD - 3.0 GHz Intel Core i7-1185G7 Quad-Core - 16GB of DDR4 RAM - 512GB SSD - Iris XE - Windows 11 pro","1,19,999",8
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","16,899",Not available
+"Dell Inspiron 15 3535 Laptop-15.6"" FHD Display, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, Carbon Black + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","40,839",Not available
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor, 8GB RAM+512GB SSD, 15.6"" FHD, Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","49,429",Not available
+(Refurbished) Dell Latitude 3410 10th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/512 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/Webcam/Intel UHD Graphics),"22,499",Not available
+"Dell G16-7630 Gaming Laptop, Intel Core i7-13650HX Processor/16GB/1TB SSD/NVIDIA RTX 4060, 8GB GDDR6/16 (40.64Cm) QHD+ 165Hz, 3ms, sRGB-100%/Win 11+MSO'21+McAfee 15 Month/Quantum White/2.87kg","1,58,145",6
+"Dell Compact Wireless Keyboard and Mouse Set KM7120W, Connect Across 3 Devices (2xBluetooth, 1xWireless), Sculpted high dpi Mouse, Programmable Shortcut Keys (Titan Grey)","5,699",205
+"(Refurbished) Dell Latitude 3000 3410 14"" Notebook - HD - 1366 x 768 - Intel Core i3 (10th Gen) i3-10110U Dual-core (2 Core) 2.10 GHz - 4 GB RAM - 500 GB HDD - Windows 10 Pro - English Keyboard - IEEE 802.11ax","24,989",Not available
+"Dell Windows Inspiron 3515 Laptop, AMD Ryzen 5-3450U, Win 11 + MSO'21, 8GB GDDR4, 512Gb SSD, Vega Gr","51,059",Not available
+"Dell Alienware X14 R2 Gaming Laptop, Windows, Intel Core i7-13620H/32GB/1TB SSD/NVIDIA RTX 4060 8GB GDDR6/14'","2,27,109",Not available
+"Dell Inspiron 15 3535 Laptop-15.6"" FHD Display, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, Carbon Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","40,929",Not available
+"DELL MS3320W-(Ash Pink), Wireless (RF/Bluetooth) Mouse, up to 4000DPI, up to 36 Month Battery Life, 3Y Advance Exchange Warranty","2,899",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 32 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","22,489",13
+"(Refurbished) Dell Latitude 5491 8th Gen Intel Core i5 Quad-Core Thin & Light High Performance FHD Laptop (8 GB DDR4 RAM/256 GB SSD/14""(35.6 cm) FHD/Windows 11/MS Office/WiFi/Webcam/Intel Graphics)","26,999",3
+"Dell Vostro 15 3520 Laptop - 15.6"" FHD, Intel Core i5-1235U, 8GB RAM, 512GB SSD, Titan Grey + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","49,839",Not available
+"Dell Vostro 15 3520 Laptop - 15.6"" FHD, Intel Core i5-1235U, 8GB RAM, 512GB SSD, Titan Grey + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","49,929",Not available
+"(Renewed) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5-5300u /8 GB/120 GB SSD/Windows 10 Pro), Black","21,590",1
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 64 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","28,990",Not available
+"Dell (Refurbished) Optiplex 790 Desktop (Intel Core I3 /8 Gb Ram / 500 Gb Hdd/ Windows 10 Pro , Ms Office/Intel Q65 Express Chipset/Dvd R/W, Usb, Ethernet,Vga,Audio), Black","5,757",294
+"Dell Precision 3480 Workstation Intel Core i7-1370P 14"" FHD(1920 x 1080) LCD 400 nits 64GB DDR5 RAM, 2TB SSD, NVIDIA RTX A500 4GB Window 11 Pro","2,19,990",Not available
+"Dell Insp. 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6""FHD/Carbon Black + Dell Wireless Mouse-MS3320W, W/L-2.4GHz, BT 5.0, Optical LED, 1.6k DPI, 3-Buttons-Midnight Green","39,839",Not available
+Dell Vostro 3030S - Intel® Core™ i3 12th Gen | 8 GB DDR5 | 512 GB SSD | Windows 11 Home with MS Office 2021 Home & Student 2021 | 3 Years Dell Onsite Warranty | Wi-Fi & Bluetooth | No Monitor,"39,500",Not available
+Dell 15 New Inspiron 3511 Laptop (2021) 15.6 Inches Fhd 11 Th Gen Intel Core I5-1135G7 Windows 10 + Ms Office 8Gb -512Gb Ssd - 2Gb Gddr5 Nvidia Mx350 Backlit Keyboard (D560578Win9Sl)- Platinum Silver,"64,590",4
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor, 8GB RAM+512GB SSD, 15.6"" FHD, Black + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","49,339",Not available
+"Dell Gaming G15 5525, AMD R7-6800H, 16GB, 512GB SSD, NVIDIA RTX 3050 (4GB GDDR6), 15.6"" (39.62Cms) FHD WVA AG 120Hz 250 nits, Win 11 + MSO'21, McAfee 15 Months, Phantom Grey with speckles, 2.51Kgs","94,388",15
+"Dell (Renewed) Latitude Laptop E7470 Intel Core I7-6600U Processor 6Th Gen,32 Gb Ram&1Tb Ssd,14.1 Inches (Ultra Slim&Feather Light 1.54Kg) Notebook Computer,Windows 10 Pro","38,499",2
+"Dell Fabric Premier Sleeve 13-PE1320V-Fits for XPS 13 2in1 7390&9300, Black","2,052",50
+"(Refurbished) Dell Latitude Laptop 7490 Intel Core i7 Mobile-8th Gen Processor , 4 GB Ram & 128 GB SSD, 14 Inches FHD 1080p 1.4KG Light Weight Notebook Computer","27,890",Not available
+"(Renewed) Dell Latitude Laptop E7250 Intel Core i5-4200u Processor, 16 GB Ram & 512 GB SSD, 12.5 Inches Ultralight Notebook Computer (1.35 Kg)","21,590",Not available
+Dell Thunderbolt Dock- WD19TBS 130w Power Delivery,"15,490",709
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (32 GB DDR4 RAM/128 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"21,690",Not available
+"Dell Inspiron 15 3535 Laptop-15.6"" FHD Display, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, Carbon Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","43,489",Not available
+"(Renewed) Dell Latitude Air Laptop E7280 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 128 GB SSD, 12.5 inches Ultra Slim & Feather Light 1KG Notebook Computer, Windows 10 Pro","15,999",30
+"Dell 15 (2021) AMD Ryzen 3-3250U Laptop, 8GB DDR4, 256GB SSD, Windows 10 + MS Office, Radeon Graphics, 15.6 inches FHD Display, Carbon Black (Inspiron 3515, D560523WIN9BE), 1.8kg","38,890",109
+"Dell Windows Inspiron 3515 Laptop, AMD Ryzen 5-3450U, Win 11 + MSO'21, 8GB GDDR4, 512Gb SSD, Vega Gr","51,716",Not available
+(Refurbished) Dell Latitude E5450 Laptop (Intel Core I5 5Th Gen/8Gb/256Gb Ssd/Webcam/14 Inches No Touch/Dos),Not available,10
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 32 GB Ram & 1 TB SSD, 14.1 Inches HD Screen Notebook Computer","24,000",8
+"Dell KM5221W Pro Wireless Keyboard and Mouse Combo, Programmable Keys and Battery Indicator Light - Black","2,799","1,586"
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 8 GB Ram & 256 GB SSD, 14.1 Inches FHD (Ultra Slim & Feather Light 1.59KG) Notebook Computer","23,990",1
+"Dell WD15 Monitor Dock 4K with 130W Adapter, USB-C, (450-AFGM, 6GFRT)","13,999",418
+"(Refurbished) Dell Latitude 5510 Intel Core i5-10210U Quad Core Processor Intel UHD Graphic Laptop (16 GB DDR4 RAM/2 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/ NUMERIC KEYPAD)","49,590",Not available
+"(Refurbished) Dell Latitude 3480 6th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14"" (35.6 cm)/Windows 11/MS Office/WiFi/Bluetooth 4.0/Webcam/Intel HD Graphics)","15,999",28
+"(Refurbished) Dell Alienware X16 R1 Gaming, Intel Core i9-13900HK/32GB/1TB SSD/NVIDIA RTX 4080 12GB GDDR6/16.0"" (40.64Cms) QHD 240Hz/Alienware Cherry MX/Win 11+MSO'21/15 Month McAfee/Lunar Silver/2.72Kgs","2,97,191",Not available
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (8 GB DDR4 RAM/2 TB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"26,990",Not available
+"Dell [Smartchoice] Core i3-1215U, 12th Gen, 8GB RAM, 512GB SSD/FHD/Black + Dell Wireless Mouse-MS3320W, W/L-2.4GHz, BT 5.0, Optical LED, 1600 DPI, 3-Buttons-Midnight Green","36,339",Not available
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor/16GB DDR4+512GB SSD/15.6"" FHD/Carbon Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","53,429",Not available
+(Refurbished) Dell Latitude 5400 (Core-I5 08th GEN/16GB/256GB SSD/14â€ /Win Pro),"17,200",14
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /16 GB/120 GB SSD/Windows 10 Pro), Black","24,290",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","21,990",Not available
+"Dell XPS 9530, Intel Evo platform powered by Intel Core i7-13700H Processor/16GB DDR5/1TB SSD/NVIDIA RTX 4050, 6GB GDDR6/15.6""(39.62cm) OLED AR 400 nits Touch/Backlit KB, 15 Month McAfee/Silver/1.86kg","2,31,740",1
+"(Refurbished) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 1 TB SSD, 14.1 Inches HD Screen Notebook Computer","27,117",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","21,399",3
+"Dell Inspiron 24 Aio (5430) Windows 11 Home, Intel Processor 8GB, 512GB SSD Graphics Intel Graphics FHD Win 11+MSO'21, 15 Month Mcafee Dark Shadow Gray Cover 5.46 Kgs","65,999",Not available
+"Dell [Smartchoice 14 Thin & Light Laptop, Windows, Intel 12Th Gen Core i5-1235U/8GB/512GB SSD/14.0"" (35.56Cm)","50,489",Not available
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor/16GB DDR4+512GB SSD/15.6"" FHD/Carbon Black + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","53,339",Not available
+"Dell Gaming G15-5530, Laptop, Intel i5-13450HX/16GB/512GB SSD/NVIDIA RTX 3050, 6GB GDDR6/15.6"" FHD/Backlit KB 4-Zone RGB/Dark Shadow Gray + Dell Alienware AW720M-Dark Side of The Moon Tri-Mode","87,955",Not available
+"Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB G","78,979",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 8 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","28,990",Not available
+"Dell (Renewed) Latitude Laptop E7470 Intel Core I5-6300U Processor,32 Gb Ram&256 Gb Ssd,14.1 Inches Screen (Ultra Slim&Light 1.58Kg) Notebook Computer,Windows 10 Pro","25,449",3
+"(Refurbished) Dell Latitude Laptop 5480 Intel Core i7 -7th Gen -Processor , 4 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Notebook Computer","24,500",Not available
+"Dell-KB740 Compact Multi-Device Wireless Numeric Keyboard, 2.4 GHz, Bluetooth 5.0, Mute, Volume -, Volume +, Adjustable Height","4,099",6
+"(Refurbished) Dell Latitude 5480 Lightweight (Core i5 7th Gen, 8GB RAM, 256GB SSD, Webcam, 14"", Windows 10 Pro)","21,000",Not available
+Dell WB5023 Webcam - 60 fps - USB 2.0 Type A,"10,599",48
+"Dell Insp. 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6"" FHD/Carbon Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","39,929",Not available
+"(Refurbished) Dell Precision 3530 Intel Core i7 - 8850H Hexa Core Processor 8th Gen, 64 GB Ram & 256 GB SSD, 15.6 Inches FHD Screen with Nvidia Quadro P600 (4GB Graphic Card) Laptop","65,990",Not available
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (8 GB DDR4 RAM/1 TB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"23,090",Not available
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (32 GB DDR4 RAM/2 TB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"30,190",Not available
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor, 8GB RAM+512GB SSD, 15.6"" FHD, Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","51,989",Not available
+"(Refurbished) Dell Latitude 3510 Ultraslim Intel Core i5-10210U Quadcore Processor Intel UHD Graphic Laptop (32GB DDR4 RAM/512GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","43,690",Not available
+"Dell Inspiron 7435 2in1 Laptop, AMD R5-7530U/8GB/512GB/14.0"" (35.56cm) FHD+ with CompfortView Support Touch, Active Pen/Win 11 + MSO'21, 15 Month McAfee/Backlit KB + FPR/Platinum Silver/1.58kg","67,590",Not available
+"Dell (Renewed) Latitude Laptop E5480 Intel Core I5 7Th Gen.-7300U Processor,16 Gb Ram&256 Gb Ssd,14.1 Inches Full Hd Screen Notebook Computer,Windows 10 Pro","18,287",2
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","22,590",Not available
+"(Refurbished) Dell Latitude Laptop E5470 Intel Core I5 6Th Gen. - 6200U Processor, 8 Gb Ram & 128 Gb Ssd","16,120",75
+Dell Premier Laptop Briefcase 15 PE1520C with Water Repellent Exterior and EVA Foam Cushioning,"5,499",37
+"(Refurbished) Dell G16 7630 Gaming Laptop, Intel i9-13900HX/16GB DDR5/1TB SSD/NVIDIA RTX 4070, 8GB GDDR6/16 (40.64cm) QHD+ 240Hz/Backlit KB RGB/Metallic Night/Win 11+MSO'21/15 Month McAfee/2.87kg","1,14,741",Not available
+"Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX, 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB GDDR6, 15.6"" FHD, Backlit KB Orange + Dell Alienware AW720M-Dark Side of The Moon Tri-Mode","86,955",Not available
+Dell 240w Performance Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-5120 x 2880-60 Hz(Max.)|DisplayPort 1.4| WD19DCS-Black,"20,599",66
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","26,400",4
+"(Refurbished) Dell Latitude Ultralight 1.23 Kg Laptop 7290 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 256 GB SSD, 12.5 Inches Screen 1.23 KG Notebook Computer","16,780",Not available
+"(Refurbished) Dell Precision 7520 Intel Core i7 - 7920HQ Quad Core Processor 7th Gen, 32 GB Ram & 256 GB SSD, 15.6 Inches (Numeric Keypad) FHD Screen with Nvidia Quadro M2200 (4GB Graphic Card) Laptop","48,990",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","24,500",4
+"Dell 15 Thin & Light Laptop, Intel Core i5-1235U Processor/16GB DDR4+512GB SSD/15.6"" FHD/Carbon Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","55,989",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (64GB DDR4 RAM/256GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","48,490",Not available
+"Dell Premier Rechargeable Wireless ANC Headset Wl7022,On-Demand ANC Switch&Mute Button,Over Ear,Black","12,990",14
+"(Refurbished) Dell Precision 7520 Intel Core i7 - 7920HQ Quad Core Processor 7th Gen, 4 GB Ram & 512 GB SSD, 15.6 Inches (Numeric Keypad) FHD Screen with Nvidia Quadro M2200 (4GB Graphic Card) Laptop","48,000",Not available
+"(Refurbished) Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0"" (35.56Cms) FHD WVA AG","29,826",1
+"Dell Inspiron 3511 Laptop, Intel Core i5-1135G7 Processor/ 8GB/ 512GB SSD/NVIDIA MX350 2GB GDDR5/ 15.6"" (39.62cm) FHD WVA AG/Win 11 + MSO' 21/15 Month McAfee/Backlit KB/Platinum Silver/ 1.8kg","67,990",26
+(Refurbished) Dell Latitude Feather Light (1.2 KG) & Slim 7390 Intel i5-7th Gen @ 2.6 Ghz Processor (16 GB DDR4 RAM/256 GB SSD/13.3 Inches/Windows 11/WiFi/Bluetooth/Webcam),"14,990",Not available
+"DELL Latitude 3550 Intel Core™ i5 i5-1335U Ordinateur portable 39.6 cm (15.6"") Full HD 16 Go DDR5-SDRAM 512 Go SSD","1,29,990",Not available
+"Dell 15 Thin & Light Laptop,Wireless Connectivity Intel Core i5-1235U Processor/16GB DDR4/512GB SSD/Intel UHD Graphics/15","53,339",Not available
+Dell Wired Mouse with Fingerprint Reader - MS819,"2,999",27
+"Dell Inspiron 7620 2In1 Laptop, Windows, Intel Core i5-1235U Processor/ 8GB DDR4/ 512GB SSD/ 16"" (40.64Cm) FH","57,959",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 128 GB SSD, 14.1 Inches HD Screen Notebook Computer","22,990",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.59KG) Notebook Computer","24,500",3
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","21,390",Not available
+(Refurbished) Dell Latitude E5490 8th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/256 GB SSD/14 (35.6 cm) HD/Windows 11/MS Office/WiFi/BT/Intel UHD Graphics),"18,999",1
+"(Refurbished) Dell Precision 5530 Intel Core i7 - 8850H Hexa Core Processor 8th Gen, 16 GB Ram & 512 GB SSD, 15.6 Inches FHD Screen with Nvidia Quadro P1000 (4GB Graphic Card) Ultrathin Laptop","55,000",4
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 8 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","25,100",Not available
+"Dell Insp. 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6"" FHD/Carbon Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi","42,489",Not available
+"(Renewed) Dell Gaming G15 5525, AMD R7-6800H, 16GB, 512GB SSD, NVIDIA RTX 3050 (4GB GDDR6), 15.6"" (3","72,206",Not available
+"(Refurbished) Dell Latitude 3510 Ultraslim Intel Core i5-10210U Quadcore Processor Intel UHD Graphic Laptop (64GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","52,990",Not available
+"Dell Vostro 15 3530–15.6"" FHD, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, Carbon Black + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","52,839",Not available
+"Dell Insp. 3530 Thin & Light Laptop, 13th Gen Intel Core i3-1305U/8GB/512GB SSD/15.6"" FHD/Carbon Black + Dell W/L Mouse-MS3320W, W/L-2.4GHz, BT 5.0, 1600 DPI, 3-Buttons-Midnight Green","39,839",Not available
+"(Refurbished) Dell Latitude Laptop E6330 Intel Core i5 - 3380m @ 2.9Ghz Processor , 8 GB Ram & 256 GB SSD, 13.3 Inches Notebook Computer","25,992",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 16 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","24,200",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 32 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","31,990",1
+"Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","1,439",9
+"(Refurbished) Dell G15-5525 Gaming Laptop, R7-6800H, 16GB DDR5, 512GB SSD, AMD, NVIDIA RTX 3060 (6GB GDDR6), 15.6"" (39.62Cms) FHD WVA AG, 165 Hz 300 nits, Win 11+ MSO'21, 15 Months McAfee, Phantom Grey","88,476",Not available
+"(Refurbished) Dell Latitude Laptop 5410 Intel Core i5 Mobile-10th Gen -Processor , 16 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","43,590",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","25,100",Not available
+"(Refurbished) Dell Latitude 5510 Intel Core i5-10210U Quad Core Processor Intel UHD Graphic Laptop (8 GB DDR4 RAM/512 GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/ NUMERIC KEYPAD)","38,990",Not available
+"(Refurbished) Dell Latitude 5510 Intel Core i5-10210U Quad Core Processor Intel UHD Graphic Laptop (32 GB DDR4 RAM/2 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/ NUMERIC KEYPAD)","52,690",Not available
+"(Refurbished) Dell XPS 9730 Laptop, Intel Core i7-13700H Processor/32GB DDR5/1TB SSD/NVIDIA RTX 4060 8GB GDDR6/17.0"" (43.18cm) UHD+ AR Touch 500 nits/Backlit KB + FPR/Win 11 + MSO'21 + 15 Month McAfee/Silver/2.44kg","2,58,476",Not available
+"Dell Ultrasharp 32 4K Usb-C Hub Monitor - U3223Qe, LCD, 31.5 In","70,477",232
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","25,890",Not available
+"(Refurbished) Dell Latitude E5470 6th Gen Intel Core i3 Thin & Light HD Laptop (4 GB DDR4 RAM/500 GB HDD/14"" (35.6 cm)/Windows 11/MS Office/Wifi/Bluetooth 4.1/Webcam/Integrated Graphics)","19,590",28
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 4 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","16,400",Not available
+"Dell S2721HN-Grey 24"" FHD 1920 x 1080 Pixels @75 Hz |Minimalistic Design | IPS Panel |Brightness: 300 cd/m²|Colour Gamut: 99% sRGB | Response Time: 4ms (Extreme), 4ms| Weight: 5.09 Kg.","13,153",807
+"Dell 13w Dual Charge Dock |LED Indicator, Qi Wireless Charging, Preboot Execution Environment (PXE) Support, MAC Address Pass-Through|Display Port 1.4 Black","14,569",2
+"Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB G","83,959",1
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (16GB DDR4 RAM/128GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","38,390",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 32 GB Ram & 256 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","27,190",1
+"Dell XPS 9320 Laptop, Intel Core i5-1240P, 16GB, 512GB SSD, Win 11 + MSO'21, 13.4"" (34.036Cms) UHD+ AR 500 nits Touch, 15 Month McAfee, Backlit KB + FPR, 1.24Kgs","1,63,660",1
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (8 GB/2 TB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-8-2TB","30,990",1
+"Dell Premier Wireless ANC Headset – WL7022, Control Panel on Headset Includes Call Control, Adjustable Leatherette Headband and Earpads, USB Dongle, Adjustable Boom Mic, Charging Stand - Black","12,990",12
+"(Renewed) Dell Latitude Laptop E7250 Intel Core i5-4200u Processor, 4 GB Ram & 256 GB SSD, 12.5 Inches Ultralight Notebook Computer (1.35 Kg)","18,490",1
+"(Refurbished) Dell OPTIPLEX 3040 Tiny Desktop (Intel Core i3 6th gen 3.2ghz, 8 GB RAM, 480gb SSD, Windows 11 (Upgraded), MS Office/ Intel HD Graphics/, USB 3.0, Ethernet,VGA), Black","8,531",275
+"(Refurbished) Dell DA310 USB-C Mobile Adapter, 7-in-1 , Type C Laptop Compatible - Dock and Adapter - Gray","4,999",2
+"(Renewed) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches FHD 1080p Screen (Ultra Slim & Feather Light 1.59KG) Notebook Computer","26,990",Not available
+"Dell Vostro 15 3530–15.6"" FHD, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, Carbon Black + Dell Wireless Mouse-MS3320W, W/L-2.4GHz, BT 5.0, Optical LED, 1600 DPI, 3-Buttons-Midnight Green","52,839",Not available
+"(Refurbished) Dell Thunderbolt Dock WD19TBS (with 130W Power Delivery) No 3.5mm ports. USB-C, Thunderbolt 3, HDMI, Dual DisplayPort, Black","11,990",59
+"(Refurbished) Dell Vostro 3400 14"" FHD AG Display Laptop (i5-1135G7 / 8GB / 512 SSD / Integrated Graphics / 1 Yr NBD / Win 10 + Office H&S/ Dune) D552157WIN9DE""_VOSTRO 3401","43,475",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 7th Gen -Processor , 8 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","21,990",Not available
+(Refurbished) Dell Vostro 7th Gen Intel Core i5 Thin & Light HD Laptop (8 GB DDR4 RAM/512 GB SSD/14 (35.3 cm) HD/Windows 11/MS Office/WiFi/BT/Webcam/Intel HD Graphics),"18,999",Not available
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-16-512","25,990",1
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 32 GB Ram & 512 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","21,312",4
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 8 GB Ram & 128 GB SSD, 14.1 Inches FHD (Ultra Slim & Feather Light 1.59KG) Notebook Computer","23,990",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","19,990",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (64GB DDR4 RAM/512GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","49,990",Not available
+Dell Conversion Adapter USB TypeC - VGA Adapter,"1,450",12
+"Dell Latitude 5320 Laptop - 13.3"" FHD Display - 2.4 GHz Intel Core i5 4-Core (11th Gen) - 256GB SSD - 8GB - Iris Xe Graphics - Windows 10 pro","71,990",Not available
+"Dell Latitude 7410 14"" Notebook - Intel Core i5 i5-10310U 1.7GHz","1,19,990",1
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 4 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","24,990",Not available
+"Dell [Smartchoice] Core i3-1215U, 12th Gen, 8GB RAM, 512GB SSD/FHD/Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","36,429",Not available
+"Dell 13w Dual Charge Dock |LED Indicator, Qi Wireless Charging, Preboot Execution Environment (PXE) Support, MAC Address Pass-Through|Display Port 1.4|UD22-Black","16,259",2
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","19,190",Not available
+"(Refurbished) Dell Latitude Laptop 5410 Intel Core i5 Mobile-10th Gen -Processor , 32 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","37,689",2
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","27,790",Not available
+"Dell [Smartchoice] Core i3-1215U, 12th Gen, 8GB RAM, 512GB SSD/FHD/Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","39,989",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","19,690",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (32GB DDR4 RAM/2 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","52,690",Not available
+Dell KM5221W Pro 2.4GHz Wireless Keyboard with 12 Programmable Keys and 3 Button Optical Mouse Combo - Black,"2,730",461
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 8 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","24,490",Not available
+"Dell Vostro 15 3530–15.6"" FHD, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, Carbon Black + Dell-MS300 Full-Size Wireless Mouse, Interface 2.4 GHz, Optical LED, Scrolling Wheel.","52,929",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (64GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","52,990",Not available
+"Dell MS3220 Wired Laser Mouse, up to 3200DPI, Lightweight, Ambidextrous with 2 Programmable Buttons","1,618",2
+(Refurbished) Dell Latitude E5470 Intel Core i5 6th Gen 14 inches 1366x768 Laptop (16GB Upgradable to 32,"21,000",5
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (8GB DDR4 RAM/128GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","36,790",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (8GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","41,990",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (32GB DDR4 RAM/128GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","41,490",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (8GB DDR4 RAM/512GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","38,990",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (8GB DDR4 RAM/256GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","37,590",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (32GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","46,690",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (16GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","43,590",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (8GB DDR4 RAM/2 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","47,990",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (32GB DDR4 RAM/512GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","43,690",Not available
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (64GB DDR4 RAM/2 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","58,990",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","23,290",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 32 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","26,690",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","42,390",Not available
+"(Refurbished) Dell Latitude Laptop 5410 Intel Core i5 Mobile-10th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","52,690",Not available
+"Dell Wm126 Wireless Keyboard and Mouse Set, 1000Dpi, 2.4 Ghz with USB Nano Receiver, Optical Tracking, 12-Months Batt","1,368",Not available
+"(Refurbished) Dell 14 Laptop, Intel Core i5-1135G7 Processor/8GB/512GB/Intel UHD Graphic/14.0"" (35.6cm) FHD with Comfort View/Spill-Resistant Keyboard/Thin & Light 1.48kg/ Win 11+ MSO'21/15 Month McAfee/Titan Grey","37,859",1
+"(Refurbished) Dell Latitude 3500 Ultraslim Intel Core i7-8565U Quadcore Processor Intel UHD Graphic Laptop (16GB DDR4 RAM/256GB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/Numeric KEYPAD)","38,990",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","28,690",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 2TB SSD, 14.1 Inches HD Screen Notebook Computer","37,690",Not available
+"(Refurbished) Dell Latitude 5510 Intel Core i5-10210U Quad Core Processor Intel UHD Graphic Laptop (32 GB DDR4 RAM/1 TB SSD/15.6"" FHD (1080p)/Windows 11/WiFi/Bluetooth/ NUMERIC KEYPAD)","46,690",Not available
+"Dell Power Cable & Dell Genuine Original Laptop Power Adapter Charger 90w 19.5V 4.62A Latitude XT2,E4200,E4300,E4310","1,999",6
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 32 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","21,690",1
+"(Refurbished) Dell New 14"" Latitude 3420- i5 11th Gen || 8 GB || 1TB + 256 GB SSD || 14"" HD || Windows10 Pro (Upgradeable Windows 11 Pro) || Backlit || Intel® Iris® Xe Graphics","36,500",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","24,990",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","28,990",Not available
+"Dell Vostro 15 3530–15.6"" FHD, 13th Gen Intel Core i5-1334U Processor, 8GB, 512GB SSD, Carbon Black + Dell MS7421W-Worlds 1st Rechargeable Mouse & 3 Connectivity 2X BT 1X W/L, 7 Buttons & 4000Dpi.","55,489",Not available
+"(Renewed) Dell Latitude Laptop E7250 Intel Core i5-4200u Processor, 8 GB Ram & 128 GB SSD, 12.5 Inches Ultralight Notebook Computer (1.35 Kg)","18,390",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (4 GB/128 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-4-128","31,995",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 8 GB Ram & 2TB SSD, 14.1 Inches HD Screen Notebook Computer","24,990",Not available
+"(Refurbished) Dell Latitude Laptop 7470 Intel Core i7 - 6600u Processor 6th Gen, 64 GB Ram & 512 GB SSD, 14.1 Inches FHD 1080p Screen (Ultra Slim & Feather Light 1.59KG) Notebook Computer","34,990",Not available
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (4 GB/256 GB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-4-256","23,890",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 64 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","32,390",Not available
+Dell Premier Multi-Device Wireless Keyboard and Mouse Set KM7321W with Dual Mode RF 2.4 GHz and Bluetooth 5.0 Connectivity (Grey),"5,100",62
+"(Refurbished) Dell 14 (2021) Ryzen 5-3450U Laptop 8GB, 256GB SSD, Win 10 + MS Office, Vega Graphics, 14.0"" (35.56 cms) FHD Display/ Dune Color (Vostro 3405, D552180WIN9D)",Not available,1
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/512 GB SSD/Windows 10 Pro), Black","21,590",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 4 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","30,990",Not available
+"Dell P2225H 21.5"" IPS FHD|100Hz| 99% sRGB| 250 cd/m2 (Typical) 5ms|1500:1 Contrast Ratio|1*HDMI 1.4 1*DP 1.2 1*USB 3.2 (B) 3*USB 3.2 (A) 1*USB 3.2 (C-Downstream)|Height Tilt Swivel Pivot|Flicker Free","10,650","1,443"
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 4 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","26,990",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","39,790",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","24,490",Not available
+"(Refurbished) Dell Latitude Windows 10 Pro Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 4 GB R","30,590",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","46,390",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 4 GB Ram & 1 TB SSD, 14.1 Inches Full HD Screen Notebook Computer","26,690",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (8 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-8-512","38,492",1
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","26,390",Not available
+Dell Power Cord and Laptop Adapter Charger 90 W for XPS 17 L701X L702X 9RCDC- Combo of 2,"1,999",3
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (8 GB/128 GB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-8-128","23,990",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 64 GB Ram & 1 TB SSD, 14.1 Inches Full HD Screen Notebook Computer","36,390",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","32,290",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (32 GB DDR4 RAM/2 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"30,790",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (64 GB DDR4 RAM/1 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"31,090",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (64 GB DDR4 RAM/256 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"27,190",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (32 GB DDR4 RAM/1 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"26,890",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (8 GB DDR4 RAM/2 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"27,690",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (64 GB DDR4 RAM/128 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"26,490",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (8 GB DDR4 RAM/1 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"23,790",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (32 GB DDR4 RAM/512 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"24,290",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (32 GB DDR4 RAM/256 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"22,990",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 64 GB Ram & 2TB GB SSD, 14.1 Inches Full HD Screen Notebook Computer","40,290",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","29,490",Not available
+Dell Power Cable and Laptop Adapter Charger 65w 19.5V 3.34A Inspiron 1464 1564 1764 300m 500m 505m,"1,999",7
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 4 GB Ram & 2TB SSD, 14.1 Inches HD Screen Notebook Computer","27,990",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","30,390",Not available
+(Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (64 GB DDR4 RAM/2 TB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"34,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (8 GB/128 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-8-128","31,995",2
+"Dell Inspiron 3020S Desktop,Intel 13Th Gen Core I5-13400 Processor,8Gb,512Gb,Wired Keyboard + Mouse,Win 11 + Mso'21,Black Color,1 Year Onsite Hardware Service,15 Month Mcafee Antivirus-Windows 11 Home","65,500",6
+"(Renewed) Dell Latitude Laptop E5570 Intel Core i5 - 6300u Processor, 32 GB Ram & 128 GB SSD, 15.6 Inches Numeric Keypad Notebook Computer","49,992",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","27,190",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 64 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","35,390",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/128 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-128","39,995",Not available
+"(Renewed) Dell 15 (2021) i5-11300H, 16GB, 512Gb SSD, Win 11 + MS Office'21, NVIDIA MX450 2GB Graphics, 15.6"" (39.62 cms)FHD Display,Platinum Silver Color,FPR + Backlit KB (Inspiron 5518, D560691WIN9S)","44,990",Not available
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (4 GB/128 GB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-4-128","23,490",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 512 GB SSD, 14.1 Inches HD Screen Notebook Computer","28,090",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","31,690",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","24,790",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","20,690",Not available
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"3,225",Not available
+"(Renewed) Dell Latitude Laptop E7250 Intel Core i5-4200u Processor, 4 GB Ram & 512 GB SSD, 12.5 Inches Ultralight Notebook Computer (1.35 Kg)","19,790",Not available
+"(Refurbished) Dell Latitude 5270 6th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/256 GB SSD/12.3"" (31.8 cm) HD/Windows 11/MS Office/WiFi/BT/Intel UHD Graphics)","14,499",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 64 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","33,590",Not available
+"Dell-Se2723Ds (68.58Cm) Qhd Monitor 2560 X 1440 at 75Hz,IPS Panel,Brightness 350 Cd/M²,16.7M Colours,Colour Gamut 99% Srgb,Anti-Glare,2X Hdmi,1X Dp Port,1X Audio,5 Year Warranty,Black,Intel,Windows","22,299",160
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 32 GB Ram & 128 GB SSD, 14.1 Inches HD Screen Notebook Computer","23,990",Not available
+"(Refurbished) Dell Latitude 7390 8th Gen Intel Core i7 Thin & Light Business FHD Laptop (8 GB DDR4 RAM/512 GB SSD/13.3"" (33.8 cm) FHD/Windows 11/MS Office/WiFi/Webcam/Integrated Graphics)","31,999",Not available
+"(Refurbished) Dell Latitude Laptop 5490 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","21,490",Not available
+"Dell 14 Laptop, Windows, Intel Core i5-1235U Processor/ 8GB/ 512GB SSD/ 14.0""(35.56Cm) FHD with Comfortview/W","67,489",Not available
+"Dell Precision 3000 3480 14"" Mobile Workstation - Full HD - 1920 x 1080 - Intel Core i7 13th Gen i7-1355U Deca-core (10 Core) 1.70 GHz - 16 GB Total RAM - 512 GB SSD - Titan Gray","1,98,999",Not available
+"(Renewed) Dell Intel Core i5 4200U 12.5-Inch (31.75 cms) HD (1366 X 768) Pixels Ultra Light Laptop (4 GB/128 GB SSD/Windows 10 Pro/1.35 Kg), E7250-i5-4-128","17,790",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","34,690",Not available
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 16 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","26,846",Not available
+"(Refurbished) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 8","29,990",4
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 64 GB Ram & 512 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","34,490",Not available
+"Alienware Tenkeyless Gaming Keyboard - AW420K (Dark Side of The Moon), AlienFX RGB / 16.8 Million Colours, Adjustable Height","9,099",4
+(Refurbished) Dell Optiplex Tiny 3060 PC i3-8100T (core i3 8th Gen/8GB DDR4 RAM/256GB SSD) USB 3.0/Wifi/Windows 11 Upgraded,"9,599",1
+(Refurbished) (Refurbished) DELL Latitude 5580 Intel i5 - 7th Gen @ 2.6 Ghz Processor with Numeric Keypad (16 GB DDR4 RAM/128 GB SSD/15.6 Inches/Windows 11/WiFi/Bluetooth/Webcam),"20,290",Not available
+"(Renewed) Dell Intel 7th Gen Intel Core i5 14.1-Inch (35.81 cms) Full HD (1920 X 1080) Pixels Laptop (16 GB/1 TB SSD/Windows 10 Pro/1.74 Kg), E5480-i5-16-1TB","21,990",1
+"Dell Alienware AW720M-Dark Side of The Moon Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Click","9,965",20
+"Dell All-in-One PC Inspiron 5410, Intel Core i5-1235U Processor/ 8GB/ 512GB/ 23.8"" (60.45cm) FHD/Windows 11 + MSO'21/ Pro Wireless Keyboard + Mouse/ 3 Years Onsite Hardware Service/White/ 5.39kg","77,499",1
+"(Refurbished) Dell Latitude E5480 7th Gen Intel Core i5 Thin & Light HD Laptop (16 GB DDR4 RAM/512 GB SSD/14"" (35.6 cm) HD/Windows 11/MS Office/WiFi/Bluetooth/Webcam/Integrated Graphics)","16,999",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 7300u Processor 7th Gen, 32 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","29,990",3
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 4 GB Ram & 1 TB SSD, 14.1 Inches HD Screen Notebook Computer","21,190",Not available
+"Dell-S2422HG 24"" (60.96 cm) FHD Curved Screen (1500R) Gaming Monitor, 165 Hz, 1ms, Brightness: 350 Cd/M²,Anti-Glare 3H Hardness, LED Edgelight System, 16.7M Colors, 3 Year Warranty, Black","11,990",326
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 4 GB Ram & 512 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,690",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 8 GB Ram & 1 TB SSD, 14.1 Inches HD Screen Notebook Computer","22,090",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","30,790",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 16 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","31,890",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 64 GB Ram & 128 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","29,990",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 8 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","29,290",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 64 GB Ram & 512 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","30,990",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","28,590",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 4 GB Ram & 2TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","28,790",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 4 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","24,590",Not available
+"(Refurbished) Dell Latitude Laptop 7480 Intel Core i5 - 6300u Processor 6th Gen, 16 GB Ram & 256 GB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.48KG) Notebook Computer","23,290",Not available
+"Dell Xps 9530,Intel Evo Platform Powered by Intel Core I7-13700H Processor/32Gb/1Tb Ssd/Nvidia RTX 4050 + 6Gb Gddr6/15.6"" OLED Ar Infinity Edge 400 Nits Touch/Backlit Kb/Silver/1.86Kg-Windows 11 Home",Not available,Not available
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 4 GB Ram & 128 GB SSD,","22,843",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","34,990",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 1TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","33,790",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 32 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","34,490",Not available
+"(Refurbished) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 128 GB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","34,990",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 2TB SSD, 14 Inches FHD 1080p Screen Notebook Computer","40,690",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 256 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","41,890",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 128 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","40,990",Not available
+"(Refurbished) Dell Latitude Laptop 5400 Intel Core i5 Mobile-8th Gen -Processor , 64 GB Ram & 512 GB SSD, 14 Inches FHD 1080p Screen Notebook Computer","43,390",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 128 GB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","37,990",Not available
+"(Refurbished) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 512 GB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","37,990",Not available
+"(Refurbished) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 256 GB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","35,990",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 512 GB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","40,990",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 1TB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","40,990",Not available
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 2TB SSD, 14","34,292",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 1TB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","43,990",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 4 GB Ram & 2TB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","43,990",Not available
+"(Renewed) Dell Latitude Touch Screen 1.18 Kg Laptop 7390 Intel Core i5 Mobile-8th Gen -Processor , 8 GB Ram & 2TB SSD, 13.3 Inches FHD Screen 1.18 KG Notebook Computer","46,990",Not available
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 64 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","32,990",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","27,290",Not available
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/256 GB SSD/Windows 10 Pro), Black","20,290",Not available
+"Dell-S3422DWG (86.36 cm) WQHD Monitor 3440 x 1440 @144Hz(DP) & 100Hz(HDMI), Brightness 400 cd/m², 99% sRGB, 90% DCI-P3, Arsenic-Free Glass, HDR 400 Compatible, Height & Tilt Adjustment,3 Year Warranty","47,999","1,229"
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","25,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/256 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-256","50,995",Not available
+(Refurbished) Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"13,500",65
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 16 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,790",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-512","42,992",1
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-512","52,995",1
+Dell Latitude E6420 LTN140AT16 Laptop LCD Screen Replacement 14.0 WXGA HD LED,"14,655",78
+"NEW 320GB 2.5"" SATA HDD Hard Disk Drive for Dell Studio XPS 1340 16 1640 1645 1647 Laptops","12,580",Not available
+"(Refurbished) Dell Alienware Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Clicks Dark Side of The Moon","6,975",Not available
+"Dell Premier Sleeve 14-Pe1420V-Latitude 9410/7400 2-in-1,Grey","3,999",40
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"2,568",Not available
+9229U Dell 6X Dvd-Rom Drive For Optiplex,"93,330",Not available
+Dell Assy DVD -RW ODD 8X SATA PSNC VW485,"95,500",Not available
+"500GB 2.5"" Sata Hard Drive Disk Hdd for Dell Inspiron XPS PP03X PP06XA","14,205",Not available
+Dell Assy DVD -RW 8 12.7 TSST N14B GN088,"69,215",Not available
+Dell Assy DVD -RW 8X L701X 9GPPP,"70,300",Not available
+"Dell Latitude 7000 7440 14"" Notebook - Full HD Plus - 1920 x 1200 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.20 GHz - Intel Evo Platform - 16 GB Total RAM - 16 GB On-Board Memory - 512","1,39,990",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","27,290",Not available
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/256 GB SSD/Windows 10 Pro), Black","20,290",Not available
+"Dell-S3422DWG (86.36 cm) WQHD Monitor 3440 x 1440 @144Hz(DP) & 100Hz(HDMI), Brightness 400 cd/m², 99% sRGB, 90% DCI-P3, Arsenic-Free Glass, HDR 400 Compatible, Height & Tilt Adjustment,3 Year Warranty","47,999","1,229"
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","25,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/256 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-256","50,995",Not available
+(Refurbished) Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"13,500",65
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 16 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,790",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-512","42,992",1
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-512","52,995",1
+Dell Latitude E6420 LTN140AT16 Laptop LCD Screen Replacement 14.0 WXGA HD LED,"14,655",78
+"NEW 320GB 2.5"" SATA HDD Hard Disk Drive for Dell Studio XPS 1340 16 1640 1645 1647 Laptops","12,580",Not available
+"(Refurbished) Dell Alienware Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Clicks Dark Side of The Moon","6,975",Not available
+"Dell Premier Sleeve 14-Pe1420V-Latitude 9410/7400 2-in-1,Grey","3,999",40
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"2,568",Not available
+9229U Dell 6X Dvd-Rom Drive For Optiplex,"93,330",Not available
+Dell Assy DVD -RW ODD 8X SATA PSNC VW485,"95,500",Not available
+"500GB 2.5"" Sata Hard Drive Disk Hdd for Dell Inspiron XPS PP03X PP06XA","14,205",Not available
+Dell Assy DVD -RW 8 12.7 TSST N14B GN088,"69,215",Not available
+Dell Assy DVD -RW 8X L701X 9GPPP,"70,300",Not available
+"Dell Latitude 7000 7440 14"" Notebook - Full HD Plus - 1920 x 1200 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.20 GHz - Intel Evo Platform - 16 GB Total RAM - 16 GB On-Board Memory - 512","1,39,990",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","27,290",Not available
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/256 GB SSD/Windows 10 Pro), Black","20,290",Not available
+"Dell-S3422DWG (86.36 cm) WQHD Monitor 3440 x 1440 @144Hz(DP) & 100Hz(HDMI), Brightness 400 cd/m², 99% sRGB, 90% DCI-P3, Arsenic-Free Glass, HDR 400 Compatible, Height & Tilt Adjustment,3 Year Warranty","47,999","1,229"
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","25,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/256 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-256","50,995",Not available
+(Refurbished) Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"13,500",65
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 16 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,790",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-512","42,992",1
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-512","52,995",1
+Dell Latitude E6420 LTN140AT16 Laptop LCD Screen Replacement 14.0 WXGA HD LED,"14,655",78
+"NEW 320GB 2.5"" SATA HDD Hard Disk Drive for Dell Studio XPS 1340 16 1640 1645 1647 Laptops","12,580",Not available
+"(Refurbished) Dell Alienware Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Clicks Dark Side of The Moon","6,975",Not available
+"Dell Premier Sleeve 14-Pe1420V-Latitude 9410/7400 2-in-1,Grey","3,999",40
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"2,568",Not available
+9229U Dell 6X Dvd-Rom Drive For Optiplex,"93,330",Not available
+Dell Assy DVD -RW ODD 8X SATA PSNC VW485,"95,500",Not available
+"500GB 2.5"" Sata Hard Drive Disk Hdd for Dell Inspiron XPS PP03X PP06XA","14,205",Not available
+Dell Assy DVD -RW 8 12.7 TSST N14B GN088,"69,215",Not available
+Dell Assy DVD -RW 8X L701X 9GPPP,"70,300",Not available
+"Dell Latitude 7000 7440 14"" Notebook - Full HD Plus - 1920 x 1200 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.20 GHz - Intel Evo Platform - 16 GB Total RAM - 16 GB On-Board Memory - 512","1,39,990",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","27,290",Not available
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/256 GB SSD/Windows 10 Pro), Black","20,290",Not available
+"Dell-S3422DWG (86.36 cm) WQHD Monitor 3440 x 1440 @144Hz(DP) & 100Hz(HDMI), Brightness 400 cd/m², 99% sRGB, 90% DCI-P3, Arsenic-Free Glass, HDR 400 Compatible, Height & Tilt Adjustment,3 Year Warranty","47,999","1,229"
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","25,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/256 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-256","50,995",Not available
+(Refurbished) Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"13,500",65
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 16 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,790",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-512","42,992",1
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-512","52,995",1
+Dell Latitude E6420 LTN140AT16 Laptop LCD Screen Replacement 14.0 WXGA HD LED,"14,655",78
+"NEW 320GB 2.5"" SATA HDD Hard Disk Drive for Dell Studio XPS 1340 16 1640 1645 1647 Laptops","12,580",Not available
+"(Refurbished) Dell Alienware Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Clicks Dark Side of The Moon","6,975",Not available
+"Dell Premier Sleeve 14-Pe1420V-Latitude 9410/7400 2-in-1,Grey","3,999",40
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"2,568",Not available
+9229U Dell 6X Dvd-Rom Drive For Optiplex,"93,330",Not available
+Dell Assy DVD -RW ODD 8X SATA PSNC VW485,"95,500",Not available
+"500GB 2.5"" Sata Hard Drive Disk Hdd for Dell Inspiron XPS PP03X PP06XA","14,205",Not available
+Dell Assy DVD -RW 8 12.7 TSST N14B GN088,"69,215",Not available
+Dell Assy DVD -RW 8X L701X 9GPPP,"70,300",Not available
+"Dell Latitude 7000 7440 14"" Notebook - Full HD Plus - 1920 x 1200 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.20 GHz - Intel Evo Platform - 16 GB Total RAM - 16 GB On-Board Memory - 512","1,39,990",Not available
+"(Renewed) Dell Latitude Laptop E5470 Intel Core i5 6th Gen. - 6200u Processor, 64 GB Ram & 256 GB SSD, 14.1 Inches HD Screen Notebook Computer","27,290",Not available
+"(Refurbished) Dell E5450 Latitude 14 Inch Laptop (5th Gen Intel Core i5 - 5300u /4 GB/256 GB SSD/Windows 10 Pro), Black","20,290",Not available
+"Dell-S3422DWG (86.36 cm) WQHD Monitor 3440 x 1440 @144Hz(DP) & 100Hz(HDMI), Brightness 400 cd/m², 99% sRGB, 90% DCI-P3, Arsenic-Free Glass, HDR 400 Compatible, Height & Tilt Adjustment,3 Year Warranty","47,999","1,229"
+"(Refurbished) Dell Latitude Laptop E7490 Intel Core i5 - 8350u Processor 8th Gen, 8 GB Ram & 1TB SSD, 14.1 Inches (Ultra Slim & Feather Light 1.37KG) Notebook Computer","25,990",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/256 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-256","50,995",Not available
+(Refurbished) Dell 180w Thunderbolt Dock|Noble Wedge Security Slot Kensington Security Slot|Resolution-3840 x 2160-60 Hz/3840 x 2160-30 Hz (DisplayPort 1.4/DisplayPort 1.2) Max.|WD19S-Black,"13,500",65
+"(Renewed) Dell Latitude Laptop E5480 Intel Core i5 7th Gen. - 7300u Processor, 16 GB Ram & 128 GB SSD, 14.1 Inches Full HD Screen Notebook Computer","24,790",Not available
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (16 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-16-512","42,992",1
+"(Renewed) Dell Intel Core i5 6300HQ 15.6-Inch (39.62 cms) HD (1366 X 768) Pixels Laptop (32 GB/512 GB SSD/Windows 10 Pro/Intel integrated/Black/2.3 Kg), E5570-i5-32-512","52,995",1
+Dell Latitude E6420 LTN140AT16 Laptop LCD Screen Replacement 14.0 WXGA HD LED,"14,655",78
+"NEW 320GB 2.5"" SATA HDD Hard Disk Drive for Dell Studio XPS 1340 16 1640 1645 1647 Laptops","12,580",Not available
+"(Refurbished) Dell Alienware Tri-Mode Wired/Wireless Gaming Mouse USB, 2.4 Ghz, Bt 5.1 Dpi 26K Adjustable Scrolling Wheel 16.8 Million Alienfx Lighting, Fast Charging, 70 Million Clicks Dark Side of The Moon","6,975",Not available
+"Dell Premier Sleeve 14-Pe1420V-Latitude 9410/7400 2-in-1,Grey","3,999",40
+Dell MS5120W-Black Pro Wireless Dual Connectivity Mouse (Bluetooth 5.0/Wireless 2.4G) with Programma,"2,568",Not available
+9229U Dell 6X Dvd-Rom Drive For Optiplex,"93,330",Not available
+Dell Assy DVD -RW ODD 8X SATA PSNC VW485,"95,500",Not available
+"500GB 2.5"" Sata Hard Drive Disk Hdd for Dell Inspiron XPS PP03X PP06XA","14,205",Not available
+Dell Assy DVD -RW 8 12.7 TSST N14B GN088,"69,215",Not available
+Dell Assy DVD -RW 8X L701X 9GPPP,"70,300",Not available
+"Dell Latitude 7000 7440 14"" Notebook - Full HD Plus - 1920 x 1200 - Intel Core i5 13th Gen i5-1345U Deca-core (10 Core) 1.20 GHz - Intel Evo Platform - 16 GB Total RAM - 16 GB On-Board Memory - 512","1,39,990",Not available
